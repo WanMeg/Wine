@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="10116" systemVersion="15B42" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES">
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="10085"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <collectionViewCell opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" reuseIdentifier="GoodsItem" id="SDE-g6-Fvh" customClass="JSGoodsCVCell">
+            <rect key="frame" x="0.0" y="0.0" width="152" height="226"/>
+            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+            <view key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center">
+                <rect key="frame" x="0.0" y="0.0" width="152" height="226"/>
+                <autoresizingMask key="autoresizingMask"/>
+                <subviews>
+                    <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" translatesAutoresizingMaskIntoConstraints="NO" id="EVM-CA-fy3">
+                        <rect key="frame" x="0.0" y="0.0" width="152" height="167"/>
+                        <color key="backgroundColor" red="1" green="0.32156862749999998" blue="0.32156862749999998" alpha="1" colorSpace="calibratedRGB"/>
+                    </imageView>
+                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="52度五粮液（新包装）" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="vLg-Lq-a1D">
+                        <rect key="frame" x="6" y="170" width="140" height="15"/>
+                        <fontDescription key="fontDescription" type="boldSystem" pointSize="12"/>
+                        <color key="textColor" red="0.43529411759999997" green="0.4431372549" blue="0.47450980390000003" alpha="1" colorSpace="calibratedRGB"/>
+                        <nil key="highlightedColor"/>
+                    </label>
+                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="批:￥0.0/瓶" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="CDB-tC-WR7">
+                        <rect key="frame" x="6" y="187" width="80" height="12"/>
+                        <constraints>
+                            <constraint firstAttribute="width" constant="80" id="vig-Ub-25g"/>
+                        </constraints>
+                        <fontDescription key="fontDescription" type="system" pointSize="10"/>
+                        <color key="textColor" red="0.90588235289999997" green="0.0078431372550000003" blue="0.1176470588" alpha="1" colorSpace="calibratedRGB"/>
+                        <nil key="highlightedColor"/>
+                    </label>
+                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="销量:0件" textAlignment="right" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="dqg-hg-HNX">
+                        <rect key="frame" x="88" y="187" width="56" height="12"/>
+                        <fontDescription key="fontDescription" type="system" pointSize="10"/>
+                        <color key="textColor" red="0.57647058819999997" green="0.57647058819999997" blue="0.57647058819999997" alpha="1" colorSpace="calibratedRGB"/>
+                        <nil key="highlightedColor"/>
+                    </label>
+                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="零:¥700/瓶" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="IpV-jX-T5F">
+                        <rect key="frame" x="6" y="202" width="90" height="18"/>
+                        <constraints>
+                            <constraint firstAttribute="width" constant="90" id="a22-5L-JP7"/>
+                        </constraints>
+                        <fontDescription key="fontDescription" type="system" pointSize="10"/>
+                        <color key="textColor" red="0.90588235289999997" green="0.0078431372550000003" blue="0.1176470588" alpha="1" colorSpace="calibratedRGB"/>
+                        <nil key="highlightedColor"/>
+                    </label>
+                    <button opaque="NO" contentMode="scaleToFill" verticalCompressionResistancePriority="749" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="mPu-Tb-Frp">
+                        <rect key="frame" x="106" y="199" width="46" height="27"/>
+                        <constraints>
+                            <constraint firstAttribute="width" constant="46" id="H6t-y3-Z3b"/>
+                        </constraints>
+                        <state key="normal" image="购物车"/>
+                    </button>
+                </subviews>
+                <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="calibratedWhite"/>
+            </view>
+            <constraints>
+                <constraint firstAttribute="trailing" secondItem="vLg-Lq-a1D" secondAttribute="trailing" constant="6" id="21W-hY-VzS"/>
+                <constraint firstItem="IpV-jX-T5F" firstAttribute="top" secondItem="CDB-tC-WR7" secondAttribute="bottom" constant="3" id="4Bf-gH-GH9"/>
+                <constraint firstItem="IpV-jX-T5F" firstAttribute="leading" secondItem="SDE-g6-Fvh" secondAttribute="leading" constant="6" id="4aw-dz-ujB"/>
+                <constraint firstItem="EVM-CA-fy3" firstAttribute="top" secondItem="SDE-g6-Fvh" secondAttribute="top" id="54h-2W-hMT"/>
+                <constraint firstAttribute="trailing" secondItem="dqg-hg-HNX" secondAttribute="trailing" constant="8" id="8rI-NY-XPh"/>
+                <constraint firstItem="vLg-Lq-a1D" firstAttribute="leading" secondItem="SDE-g6-Fvh" secondAttribute="leading" constant="6" id="D2m-Nl-eXY"/>
+                <constraint firstItem="vLg-Lq-a1D" firstAttribute="top" secondItem="EVM-CA-fy3" secondAttribute="bottom" constant="3" id="DgV-1a-cnq"/>
+                <constraint firstItem="dqg-hg-HNX" firstAttribute="top" secondItem="vLg-Lq-a1D" secondAttribute="bottom" constant="2" id="Exr-ob-Anc"/>
+                <constraint firstItem="mPu-Tb-Frp" firstAttribute="top" secondItem="dqg-hg-HNX" secondAttribute="bottom" id="Hw0-Le-gCz"/>
+                <constraint firstItem="CDB-tC-WR7" firstAttribute="top" secondItem="vLg-Lq-a1D" secondAttribute="bottom" constant="2" id="O3f-CP-ZeI"/>
+                <constraint firstAttribute="bottom" secondItem="CDB-tC-WR7" secondAttribute="bottom" constant="27" id="TSW-OO-fjh"/>
+                <constraint firstAttribute="trailing" secondItem="mPu-Tb-Frp" secondAttribute="trailing" id="Wct-Zy-gzT"/>
+                <constraint firstAttribute="bottom" secondItem="IpV-jX-T5F" secondAttribute="bottom" constant="6" id="YdK-yp-MRY"/>
+                <constraint firstItem="CDB-tC-WR7" firstAttribute="leading" secondItem="SDE-g6-Fvh" secondAttribute="leading" constant="6" id="fqu-Kt-kjw"/>
+                <constraint firstAttribute="bottom" secondItem="mPu-Tb-Frp" secondAttribute="bottom" id="mnl-Fe-Bvs"/>
+                <constraint firstAttribute="trailing" secondItem="EVM-CA-fy3" secondAttribute="trailing" id="p10-ZK-ins"/>
+                <constraint firstItem="EVM-CA-fy3" firstAttribute="leading" secondItem="SDE-g6-Fvh" secondAttribute="leading" id="wIm-8E-GYm"/>
+                <constraint firstItem="dqg-hg-HNX" firstAttribute="leading" secondItem="CDB-tC-WR7" secondAttribute="trailing" constant="2" id="xES-JU-1SN"/>
+                <constraint firstAttribute="bottom" secondItem="dqg-hg-HNX" secondAttribute="bottom" constant="27" id="zIU-yk-mqD"/>
+            </constraints>
+            <size key="customSize" width="152" height="226"/>
+            <connections>
+                <outlet property="addShopCarBtn" destination="mPu-Tb-Frp" id="zfe-aO-Y81"/>
+                <outlet property="imgView" destination="EVM-CA-fy3" id="Iqs-1v-WEx"/>
+                <outlet property="lingPriceLabel" destination="IpV-jX-T5F" id="4Q8-qu-0RM"/>
+                <outlet property="nameLabel" destination="vLg-Lq-a1D" id="q6F-nG-5Bq"/>
+                <outlet property="piPriceLabel" destination="CDB-tC-WR7" id="YZZ-yT-O2R"/>
+                <outlet property="soldNumLabel" destination="dqg-hg-HNX" id="20C-jU-gki"/>
+            </connections>
+            <point key="canvasLocation" x="206" y="230"/>
+        </collectionViewCell>
+    </objects>
+    <resources>
+        <image name="购物车" width="13" height="13"/>
+    </resources>
+</document>

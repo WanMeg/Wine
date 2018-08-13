@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/wine/!svn/ver/6/app/ios/Wine/Pods/Headers/Public/MWPhotoBrowser
+END
+MWGridCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/wine/!svn/ver/6/app/ios/Wine/Pods/Headers/Public/MWPhotoBrowser/MWGridCell.h
+END
+MWTapDetectingView.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/wine/!svn/ver/6/app/ios/Wine/Pods/Headers/Public/MWPhotoBrowser/MWTapDetectingView.h
+END
+MWCaptionView.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/wine/!svn/ver/6/app/ios/Wine/Pods/Headers/Public/MWPhotoBrowser/MWCaptionView.h
+END
+MWCommon.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/wine/!svn/ver/6/app/ios/Wine/Pods/Headers/Public/MWPhotoBrowser/MWCommon.h
+END
+MWPhotoBrowserPrivate.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/wine/!svn/ver/6/app/ios/Wine/Pods/Headers/Public/MWPhotoBrowser/MWPhotoBrowserPrivate.h
+END
+MWPhoto.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/wine/!svn/ver/6/app/ios/Wine/Pods/Headers/Public/MWPhotoBrowser/MWPhoto.h
+END
+MWTapDetectingImageView.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/wine/!svn/ver/6/app/ios/Wine/Pods/Headers/Public/MWPhotoBrowser/MWTapDetectingImageView.h
+END
+UIImage+MWPhotoBrowser.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/wine/!svn/ver/6/app/ios/Wine/Pods/Headers/Public/MWPhotoBrowser/UIImage+MWPhotoBrowser.h
+END
+MWPhotoProtocol.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/wine/!svn/ver/6/app/ios/Wine/Pods/Headers/Public/MWPhotoBrowser/MWPhotoProtocol.h
+END
+MWZoomingScrollView.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/wine/!svn/ver/6/app/ios/Wine/Pods/Headers/Public/MWPhotoBrowser/MWZoomingScrollView.h
+END
+MWPhotoBrowser.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/wine/!svn/ver/6/app/ios/Wine/Pods/Headers/Public/MWPhotoBrowser/MWPhotoBrowser.h
+END
+MWGridViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/wine/!svn/ver/6/app/ios/Wine/Pods/Headers/Public/MWPhotoBrowser/MWGridViewController.h
+END

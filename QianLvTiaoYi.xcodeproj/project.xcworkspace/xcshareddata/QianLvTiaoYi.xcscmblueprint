@@ -1,0 +1,35 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "7d08586c-986b-a740-b002-f4184a992849++5305",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+    "7d08586c-986b-a740-b002-f4184a992849++5305" : {
+
+    },
+    "7d08586c-986b-a740-b002-f4184a992849++5090" : {
+
+    }
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "7d08586c-986b-a740-b002-f4184a992849++5305" : 0,
+    "7d08586c-986b-a740-b002-f4184a992849++5090" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "57DA1D3E-0CAE-4855-8F38-C6FC7FD9192D",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "7d08586c-986b-a740-b002-f4184a992849++5305" : "Wine\/",
+    "7d08586c-986b-a740-b002-f4184a992849++5090" : "Wine%20Project\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "QianLvTiaoYi",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "QianLvTiaoYi.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/211.149.197.146\/svn\/wine",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "7d08586c-986b-a740-b002-f4184a992849++5090"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/211.149.197.146\/svn\/wine",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "7d08586c-986b-a740-b002-f4184a992849++5305"
+    }
+  ]
+}

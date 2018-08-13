@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="10116" systemVersion="15B42" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES">
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="10085"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <view contentMode="scaleToFill" id="TZ7-ga-tD5" customClass="JSHomePageFooterView">
+            <rect key="frame" x="0.0" y="0.0" width="320" height="82"/>
+            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+            <subviews>
+                <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" translatesAutoresizingMaskIntoConstraints="NO" id="GRH-XG-g36">
+                    <rect key="frame" x="0.0" y="0.0" width="320" height="82"/>
+                    <color key="backgroundColor" red="1" green="0.32156862749999998" blue="0.32156862749999998" alpha="1" colorSpace="calibratedRGB"/>
+                </imageView>
+            </subviews>
+            <constraints>
+                <constraint firstAttribute="bottom" secondItem="GRH-XG-g36" secondAttribute="bottom" id="ILX-lk-7lY"/>
+                <constraint firstItem="GRH-XG-g36" firstAttribute="leading" secondItem="TZ7-ga-tD5" secondAttribute="leading" id="Qio-3u-x3d"/>
+                <constraint firstItem="GRH-XG-g36" firstAttribute="top" secondItem="TZ7-ga-tD5" secondAttribute="top" id="goX-Ec-S3f"/>
+                <constraint firstAttribute="trailing" secondItem="GRH-XG-g36" secondAttribute="trailing" id="gwv-UR-3vc"/>
+            </constraints>
+            <nil key="simulatedStatusBarMetrics"/>
+            <freeformSimulatedSizeMetrics key="simulatedDestinationMetrics"/>
+            <connections>
+                <outlet property="imgView" destination="GRH-XG-g36" id="CuI-wb-fz0"/>
+            </connections>
+            <point key="canvasLocation" x="319" y="23"/>
+        </view>
+    </objects>
+</document>

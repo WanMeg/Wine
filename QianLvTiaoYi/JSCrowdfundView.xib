@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="10116" systemVersion="15B42" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES">
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="10085"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <view contentMode="scaleToFill" id="iN0-l3-epB" customClass="JSCrowdfundView">
+            <rect key="frame" x="0.0" y="0.0" width="375" height="49"/>
+            <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+            <subviews>
+                <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="8Cw-uc-kRc">
+                    <rect key="frame" x="0.0" y="0.0" width="80" height="49"/>
+                    <subviews>
+                        <button opaque="NO" tag="10" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="w0L-2l-hSU">
+                            <rect key="frame" x="21" y="1" width="39" height="48"/>
+                            <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                            <fontDescription key="fontDescription" type="system" pointSize="12"/>
+                            <inset key="titleEdgeInsets" minX="-15" minY="0.0" maxX="0.0" maxY="-20"/>
+                            <inset key="imageEdgeInsets" minX="12" minY="-15" maxX="0.0" maxY="0.0"/>
+                            <state key="normal" title="客服" image="kefu0">
+                                <color key="titleColor" red="0.40000000000000002" green="0.40000000000000002" blue="0.40000000000000002" alpha="1" colorSpace="calibratedRGB"/>
+                            </state>
+                        </button>
+                    </subviews>
+                    <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                    <constraints>
+                        <constraint firstAttribute="bottom" secondItem="w0L-2l-hSU" secondAttribute="bottom" id="1ys-UQ-ukf"/>
+                        <constraint firstAttribute="width" constant="80" id="C4e-Ju-vPR"/>
+                        <constraint firstItem="w0L-2l-hSU" firstAttribute="centerX" secondItem="8Cw-uc-kRc" secondAttribute="centerX" id="PlJ-JR-dzb"/>
+                        <constraint firstItem="w0L-2l-hSU" firstAttribute="top" secondItem="8Cw-uc-kRc" secondAttribute="top" constant="1" id="ppy-eH-Dpd"/>
+                    </constraints>
+                </view>
+                <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="dfV-8r-p3O">
+                    <rect key="frame" x="80" y="1" width="295" height="48"/>
+                    <color key="backgroundColor" red="0.91764705879999997" green="0.0" blue="0.1215686275" alpha="1" colorSpace="calibratedRGB"/>
+                    <fontDescription key="fontDescription" type="boldSystem" pointSize="19"/>
+                    <state key="normal" title="加入众筹" image="jiaruzc"/>
+                </button>
+                <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="IUD-GZ-c2z">
+                    <rect key="frame" x="0.0" y="0.0" width="375" height="1"/>
+                    <color key="backgroundColor" white="0.66666666666666663" alpha="1" colorSpace="calibratedWhite"/>
+                    <constraints>
+                        <constraint firstAttribute="height" constant="1" id="aCD-So-4xL"/>
+                    </constraints>
+                </view>
+            </subviews>
+            <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="calibratedWhite"/>
+            <constraints>
+                <constraint firstItem="IUD-GZ-c2z" firstAttribute="leading" secondItem="iN0-l3-epB" secondAttribute="leading" id="0JK-Bj-siG"/>
+                <constraint firstAttribute="bottom" secondItem="8Cw-uc-kRc" secondAttribute="bottom" id="9CF-si-Zpm"/>
+                <constraint firstItem="dfV-8r-p3O" firstAttribute="top" secondItem="IUD-GZ-c2z" secondAttribute="bottom" id="GCD-a0-oQO"/>
+                <constraint firstItem="8Cw-uc-kRc" firstAttribute="leading" secondItem="iN0-l3-epB" secondAttribute="leading" id="K6g-Mn-8sY"/>
+                <constraint firstAttribute="bottom" secondItem="dfV-8r-p3O" secondAttribute="bottom" id="Nyc-k5-z4F"/>
+                <constraint firstItem="dfV-8r-p3O" firstAttribute="leading" secondItem="8Cw-uc-kRc" secondAttribute="trailing" id="OxD-tE-1vA"/>
+                <constraint firstItem="dfV-8r-p3O" firstAttribute="top" secondItem="iN0-l3-epB" secondAttribute="top" constant="1" id="XRB-rt-wEF"/>
+                <constraint firstAttribute="trailing" secondItem="dfV-8r-p3O" secondAttribute="trailing" id="eua-OM-zwB"/>
+                <constraint firstAttribute="trailing" secondItem="IUD-GZ-c2z" secondAttribute="trailing" id="h6w-k8-PxO"/>
+                <constraint firstItem="IUD-GZ-c2z" firstAttribute="top" secondItem="iN0-l3-epB" secondAttribute="top" id="ufY-JQ-Gd1"/>
+                <constraint firstItem="8Cw-uc-kRc" firstAttribute="top" secondItem="iN0-l3-epB" secondAttribute="top" id="yEk-LG-h6x"/>
+            </constraints>
+            <nil key="simulatedStatusBarMetrics"/>
+            <freeformSimulatedSizeMetrics key="simulatedDestinationMetrics"/>
+            <connections>
+                <outlet property="crowdJoinCrowdBtn" destination="dfV-8r-p3O" id="kmm-Wy-oFO"/>
+                <outlet property="crowdKeFuBtn" destination="w0L-2l-hSU" id="lQS-FT-7b4"/>
+            </connections>
+            <point key="canvasLocation" x="214.5" y="83.5"/>
+        </view>
+    </objects>
+    <resources>
+        <image name="jiaruzc" width="24" height="24"/>
+        <image name="kefu0" width="15" height="15"/>
+    </resources>
+</document>

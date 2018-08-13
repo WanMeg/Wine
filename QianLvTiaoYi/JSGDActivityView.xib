@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="10116" systemVersion="15B42" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES">
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="10085"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <view contentMode="scaleToFill" id="iN0-l3-epB" customClass="JSGDActivityView">
+            <rect key="frame" x="0.0" y="0.0" width="375" height="220"/>
+            <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+            <subviews>
+                <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="促销活动" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="FiH-hs-Vbd">
+                    <rect key="frame" x="160" y="8" width="56" height="16"/>
+                    <fontDescription key="fontDescription" type="system" pointSize="14"/>
+                    <color key="textColor" cocoaTouchSystemColor="darkTextColor"/>
+                    <nil key="highlightedColor"/>
+                </label>
+                <tableView clipsSubviews="YES" contentMode="scaleToFill" alwaysBounceVertical="YES" style="grouped" separatorStyle="default" rowHeight="44" sectionHeaderHeight="18" sectionFooterHeight="18" translatesAutoresizingMaskIntoConstraints="NO" id="Zdk-yE-zYf">
+                    <rect key="frame" x="0.0" y="30" width="375" height="190"/>
+                    <color key="backgroundColor" cocoaTouchSystemColor="groupTableViewBackgroundColor"/>
+                </tableView>
+            </subviews>
+            <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="calibratedWhite"/>
+            <constraints>
+                <constraint firstAttribute="bottom" secondItem="Zdk-yE-zYf" secondAttribute="bottom" id="9d8-WP-wlX"/>
+                <constraint firstItem="Zdk-yE-zYf" firstAttribute="top" secondItem="FiH-hs-Vbd" secondAttribute="bottom" constant="6" id="Kxl-MQ-wkW"/>
+                <constraint firstAttribute="bottom" secondItem="FiH-hs-Vbd" secondAttribute="bottom" constant="196" id="LYQ-hZ-cT0"/>
+                <constraint firstItem="FiH-hs-Vbd" firstAttribute="centerX" secondItem="iN0-l3-epB" secondAttribute="centerX" id="VUQ-wC-GYs"/>
+                <constraint firstAttribute="trailing" secondItem="Zdk-yE-zYf" secondAttribute="trailing" id="ZOP-TM-gHP"/>
+                <constraint firstItem="Zdk-yE-zYf" firstAttribute="leading" secondItem="iN0-l3-epB" secondAttribute="leading" id="eiL-hO-TLb"/>
+                <constraint firstItem="FiH-hs-Vbd" firstAttribute="top" secondItem="iN0-l3-epB" secondAttribute="top" constant="8" id="tWs-dB-82P"/>
+            </constraints>
+            <nil key="simulatedStatusBarMetrics"/>
+            <freeformSimulatedSizeMetrics key="simulatedDestinationMetrics"/>
+            <connections>
+                <outlet property="gdActionTabView" destination="Zdk-yE-zYf" id="gpY-g5-mbQ"/>
+            </connections>
+            <point key="canvasLocation" x="307.5" y="270"/>
+        </view>
+    </objects>
+</document>

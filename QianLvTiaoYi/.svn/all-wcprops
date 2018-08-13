@@ -1,0 +1,5099 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/wine/!svn/ver/621/app/ios/Wine/QianLvTiaoYi
+END
+WMComments.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/wine/!svn/ver/566/app/ios/Wine/QianLvTiaoYi/WMComments.h
+END
+JSGDActivityView.xib
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/wine/!svn/ver/307/app/ios/Wine/QianLvTiaoYi/JSGDActivityView.xib
+END
+Default@2x.png
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/wine/!svn/ver/449/app/ios/Wine/QianLvTiaoYi/Default@2x.png
+END
+StoreNavigationBar.xib
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/wine/!svn/ver/111/app/ios/Wine/QianLvTiaoYi/StoreNavigationBar.xib
+END
+JSLIGoodsCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/wine/!svn/ver/293/app/ios/Wine/QianLvTiaoYi/JSLIGoodsCell.h
+END
+GetIdeaListData.m
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/wine/!svn/ver/554/app/ios/Wine/QianLvTiaoYi/GetIdeaListData.m
+END
+WMComments.m
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/wine/!svn/ver/318/app/ios/Wine/QianLvTiaoYi/WMComments.m
+END
+JSPickerView.xib
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/wine/!svn/ver/303/app/ios/Wine/QianLvTiaoYi/JSPickerView.xib
+END
+StoreNavigationBar.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/wine/!svn/ver/100/app/ios/Wine/QianLvTiaoYi/StoreNavigationBar.h
+END
+JSLIGoodsCell.m
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/wine/!svn/ver/293/app/ios/Wine/QianLvTiaoYi/JSLIGoodsCell.m
+END
+JSTodayShoppingTVC.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/wine/!svn/ver/189/app/ios/Wine/QianLvTiaoYi/JSTodayShoppingTVC.h
+END
+StoreNavigationBar.m
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/wine/!svn/ver/100/app/ios/Wine/QianLvTiaoYi/StoreNavigationBar.m
+END
+JSTodayShoppingTVC.m
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/wine/!svn/ver/616/app/ios/Wine/QianLvTiaoYi/JSTodayShoppingTVC.m
+END
+GetFavoriteData.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/wine/!svn/ver/6/app/ios/Wine/QianLvTiaoYi/GetFavoriteData.h
+END
+JSUserPasswordTabVC.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/wine/!svn/ver/99/app/ios/Wine/QianLvTiaoYi/JSUserPasswordTabVC.h
+END
+GetFavoriteData.m
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/wine/!svn/ver/39/app/ios/Wine/QianLvTiaoYi/GetFavoriteData.m
+END
+JSUserPasswordTabVC.m
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/wine/!svn/ver/366/app/ios/Wine/QianLvTiaoYi/JSUserPasswordTabVC.m
+END
+CommitOrder.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/wine/!svn/ver/326/app/ios/Wine/QianLvTiaoYi/CommitOrder.h
+END
+JSGoodsDetaillDesc4Cell.xib
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/wine/!svn/ver/318/app/ios/Wine/QianLvTiaoYi/JSGoodsDetaillDesc4Cell.xib
+END
+GetShopDetailData.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/wine/!svn/ver/217/app/ios/Wine/QianLvTiaoYi/GetShopDetailData.h
+END
+CommitOrder.m
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/wine/!svn/ver/127/app/ios/Wine/QianLvTiaoYi/CommitOrder.m
+END
+JSIntegralVC.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/wine/!svn/ver/73/app/ios/Wine/QianLvTiaoYi/JSIntegralVC.h
+END
+GetShopDetailData.m
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/wine/!svn/ver/217/app/ios/Wine/QianLvTiaoYi/GetShopDetailData.m
+END
+GetRedPacketData.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/wine/!svn/ver/115/app/ios/Wine/QianLvTiaoYi/GetRedPacketData.h
+END
+WMCommentBanner.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/wine/!svn/ver/131/app/ios/Wine/QianLvTiaoYi/WMCommentBanner.h
+END
+weibo.jpg
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/wine/!svn/ver/6/app/ios/Wine/QianLvTiaoYi/weibo.jpg
+END
+JSIntegralVC.m
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/wine/!svn/ver/621/app/ios/Wine/QianLvTiaoYi/JSIntegralVC.m
+END
+GetRedPacketData.m
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/wine/!svn/ver/212/app/ios/Wine/QianLvTiaoYi/GetRedPacketData.m
+END
+GetGoodsListData.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/wine/!svn/ver/6/app/ios/Wine/QianLvTiaoYi/GetGoodsListData.h
+END
+JSAddressEidtTextFieldCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/wine/!svn/ver/6/app/ios/Wine/QianLvTiaoYi/JSAddressEidtTextFieldCell.h
+END
+WMCommentBanner.m
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/wine/!svn/ver/131/app/ios/Wine/QianLvTiaoYi/WMCommentBanner.m
+END
+JSNumerousPlanTVC.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/wine/!svn/ver/466/app/ios/Wine/QianLvTiaoYi/JSNumerousPlanTVC.h
+END
+JSCategoryCV.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/wine/!svn/ver/231/app/ios/Wine/QianLvTiaoYi/JSCategoryCV.h
+END
+GetGoodsListData.m
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/wine/!svn/ver/6/app/ios/Wine/QianLvTiaoYi/GetGoodsListData.m
+END
+JSAddressEidtTextFieldCell.m
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/wine/!svn/ver/6/app/ios/Wine/QianLvTiaoYi/JSAddressEidtTextFieldCell.m
+END
+XLNetworkRequest.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/wine/!svn/ver/6/app/ios/Wine/QianLvTiaoYi/XLNetworkRequest.h
+END
+JSNumerousPlanTVC.m
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/wine/!svn/ver/617/app/ios/Wine/QianLvTiaoYi/JSNumerousPlanTVC.m
+END
+GetUserData.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/wine/!svn/ver/6/app/ios/Wine/QianLvTiaoYi/GetUserData.h
+END
+JSCategoryCV.m
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/wine/!svn/ver/551/app/ios/Wine/QianLvTiaoYi/JSCategoryCV.m
+END
+JSUserSecurityTVCell.xib
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/wine/!svn/ver/338/app/ios/Wine/QianLvTiaoYi/JSUserSecurityTVCell.xib
+END
+JSForgotPasswordVC.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/wine/!svn/ver/6/app/ios/Wine/QianLvTiaoYi/JSForgotPasswordVC.h
+END
+GetRushRPBanner.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/wine/!svn/ver/167/app/ios/Wine/QianLvTiaoYi/GetRushRPBanner.h
+END
+JSNewGoodsCVCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/wine/!svn/ver/303/app/ios/Wine/QianLvTiaoYi/JSNewGoodsCVCell.h
+END
+XLNetworkRequest.m
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/wine/!svn/ver/6/app/ios/Wine/QianLvTiaoYi/XLNetworkRequest.m
+END
+GetUserData.m
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/wine/!svn/ver/189/app/ios/Wine/QianLvTiaoYi/GetUserData.m
+END
+JSForgotPasswordVC.m
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/wine/!svn/ver/99/app/ios/Wine/QianLvTiaoYi/JSForgotPasswordVC.m
+END
+GetRushRPBanner.m
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/wine/!svn/ver/167/app/ios/Wine/QianLvTiaoYi/GetRushRPBanner.m
+END
+GetOrderPayData.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/wine/!svn/ver/245/app/ios/Wine/QianLvTiaoYi/GetOrderPayData.h
+END
+PRFilterExtensionCell.xib
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/wine/!svn/ver/248/app/ios/Wine/QianLvTiaoYi/PRFilterExtensionCell.xib
+END
+JSNewGoodsCVCell.m
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/wine/!svn/ver/177/app/ios/Wine/QianLvTiaoYi/JSNewGoodsCVCell.m
+END
+JSCommentBaskCell2.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/wine/!svn/ver/337/app/ios/Wine/QianLvTiaoYi/JSCommentBaskCell2.h
+END
+Default-568h@2x.png
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/wine/!svn/ver/449/app/ios/Wine/QianLvTiaoYi/Default-568h@2x.png
+END
+OutTradeOrder.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/wine/!svn/ver/6/app/ios/Wine/QianLvTiaoYi/OutTradeOrder.h
+END
+JSGoodsDetailVC.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/wine/!svn/ver/616/app/ios/Wine/QianLvTiaoYi/JSGoodsDetailVC.h
+END
+GetOrderPayData.m
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/wine/!svn/ver/245/app/ios/Wine/QianLvTiaoYi/GetOrderPayData.m
+END
+JSCommentBaskCell2.m
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/wine/!svn/ver/73/app/ios/Wine/QianLvTiaoYi/JSCommentBaskCell2.m
+END
+OutTradeOrder.m
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/wine/!svn/ver/6/app/ios/Wine/QianLvTiaoYi/OutTradeOrder.m
+END
+JSGoodsDetailVC.m
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/wine/!svn/ver/621/app/ios/Wine/QianLvTiaoYi/JSGoodsDetailVC.m
+END
+GetPersonalInfoData.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/wine/!svn/ver/6/app/ios/Wine/QianLvTiaoYi/GetPersonalInfoData.h
+END
+TextAd.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/wine/!svn/ver/9/app/ios/Wine/QianLvTiaoYi/TextAd.h
+END
+JSFootprintTVCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/wine/!svn/ver/538/app/ios/Wine/QianLvTiaoYi/JSFootprintTVCell.h
+END
+GetHelpPayData.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/wine/!svn/ver/123/app/ios/Wine/QianLvTiaoYi/GetHelpPayData.h
+END
+JSCMCouponTVC.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/wine/!svn/ver/280/app/ios/Wine/QianLvTiaoYi/JSCMCouponTVC.h
+END
+GetPersonalInfoData.m
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/wine/!svn/ver/6/app/ios/Wine/QianLvTiaoYi/GetPersonalInfoData.m
+END
+TextAd.m
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/wine/!svn/ver/9/app/ios/Wine/QianLvTiaoYi/TextAd.m
+END
+JSFootprintTVCell.m
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/wine/!svn/ver/123/app/ios/Wine/QianLvTiaoYi/JSFootprintTVCell.m
+END
+libcrypto.a
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/wine/!svn/ver/219/app/ios/Wine/QianLvTiaoYi/libcrypto.a
+END
+JSPSTransferTVC.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/wine/!svn/ver/338/app/ios/Wine/QianLvTiaoYi/JSPSTransferTVC.h
+END
+GetHelpPayData.m
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/wine/!svn/ver/295/app/ios/Wine/QianLvTiaoYi/GetHelpPayData.m
+END
+JSCMCouponTVC.m
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/wine/!svn/ver/621/app/ios/Wine/QianLvTiaoYi/JSCMCouponTVC.m
+END
+JSOrderGoodsCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/wine/!svn/ver/150/app/ios/Wine/QianLvTiaoYi/JSOrderGoodsCell.h
+END
+JSPSTransferTVC.m
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/wine/!svn/ver/621/app/ios/Wine/QianLvTiaoYi/JSPSTransferTVC.m
+END
+FilterModel.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/wine/!svn/ver/8/app/ios/Wine/QianLvTiaoYi/FilterModel.h
+END
+PRTranslucentController.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/wine/!svn/ver/8/app/ios/Wine/QianLvTiaoYi/PRTranslucentController.h
+END
+JSOrderGoodsCell.m
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/wine/!svn/ver/6/app/ios/Wine/QianLvTiaoYi/JSOrderGoodsCell.m
+END
+FilterModel.m
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/wine/!svn/ver/8/app/ios/Wine/QianLvTiaoYi/FilterModel.m
+END
+GetRedCountData.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/wine/!svn/ver/115/app/ios/Wine/QianLvTiaoYi/GetRedCountData.h
+END
+PRTranslucentController.m
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/wine/!svn/ver/8/app/ios/Wine/QianLvTiaoYi/PRTranslucentController.m
+END
+WMConsume.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/wine/!svn/ver/245/app/ios/Wine/QianLvTiaoYi/WMConsume.h
+END
+JSFootprintTableVC.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/wine/!svn/ver/54/app/ios/Wine/QianLvTiaoYi/JSFootprintTableVC.h
+END
+GetRedCountData.m
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/wine/!svn/ver/115/app/ios/Wine/QianLvTiaoYi/GetRedCountData.m
+END
+WMConsume.m
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/wine/!svn/ver/245/app/ios/Wine/QianLvTiaoYi/WMConsume.m
+END
+JSIdeaListView.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/wine/!svn/ver/554/app/ios/Wine/QianLvTiaoYi/JSIdeaListView.h
+END
+JSPSUseConsumeCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/wine/!svn/ver/245/app/ios/Wine/QianLvTiaoYi/JSPSUseConsumeCell.h
+END
+JSUpdatePhoneTVC.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/wine/!svn/ver/262/app/ios/Wine/QianLvTiaoYi/JSUpdatePhoneTVC.h
+END
+JSUserManagerTabVC.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/wine/!svn/ver/65/app/ios/Wine/QianLvTiaoYi/JSUserManagerTabVC.h
+END
+JSFootprintTableVC.m
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/wine/!svn/ver/621/app/ios/Wine/QianLvTiaoYi/JSFootprintTableVC.m
+END
+JSAdressListTVC.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/wine/!svn/ver/6/app/ios/Wine/QianLvTiaoYi/JSAdressListTVC.h
+END
+JSGoodsDetaillDesc2Cell.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/wine/!svn/ver/9/app/ios/Wine/QianLvTiaoYi/JSGoodsDetaillDesc2Cell.h
+END
+GetMarketActivityData.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/wine/!svn/ver/189/app/ios/Wine/QianLvTiaoYi/GetMarketActivityData.h
+END
+PRSliderSpecCell.xib
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/wine/!svn/ver/551/app/ios/Wine/QianLvTiaoYi/PRSliderSpecCell.xib
+END
+JSIdeaListView.m
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/wine/!svn/ver/565/app/ios/Wine/QianLvTiaoYi/JSIdeaListView.m
+END
+JSPSUseConsumeCell.m
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/wine/!svn/ver/245/app/ios/Wine/QianLvTiaoYi/JSPSUseConsumeCell.m
+END
+JSCAGoodsItem.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/wine/!svn/ver/336/app/ios/Wine/QianLvTiaoYi/JSCAGoodsItem.h
+END
+JSUpdatePhoneTVC.m
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/wine/!svn/ver/621/app/ios/Wine/QianLvTiaoYi/JSUpdatePhoneTVC.m
+END
+JSUserManagerTabVC.m
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/wine/!svn/ver/621/app/ios/Wine/QianLvTiaoYi/JSUserManagerTabVC.m
+END
+JSHomePageFooterView.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/wine/!svn/ver/9/app/ios/Wine/QianLvTiaoYi/JSHomePageFooterView.h
+END
+JSAdressListTVC.m
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/wine/!svn/ver/621/app/ios/Wine/QianLvTiaoYi/JSAdressListTVC.m
+END
+JSGoodsDetaillDesc2Cell.m
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/wine/!svn/ver/9/app/ios/Wine/QianLvTiaoYi/JSGoodsDetaillDesc2Cell.m
+END
+WMCrowdfunding.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/wine/!svn/ver/530/app/ios/Wine/QianLvTiaoYi/WMCrowdfunding.h
+END
+GetMarketActivityData.m
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/wine/!svn/ver/189/app/ios/Wine/QianLvTiaoYi/GetMarketActivityData.m
+END
+JSCommentDetailTVC.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/wine/!svn/ver/566/app/ios/Wine/QianLvTiaoYi/JSCommentDetailTVC.h
+END
+JSCAGoodsItem.m
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/wine/!svn/ver/8/app/ios/Wine/QianLvTiaoYi/JSCAGoodsItem.m
+END
+JSHomePageFooterView.m
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/wine/!svn/ver/7/app/ios/Wine/QianLvTiaoYi/JSHomePageFooterView.m
+END
+WMCrowdfunding.m
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/wine/!svn/ver/466/app/ios/Wine/QianLvTiaoYi/WMCrowdfunding.m
+END
+JSHelpCenterTVC.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/wine/!svn/ver/31/app/ios/Wine/QianLvTiaoYi/JSHelpCenterTVC.h
+END
+JSStoreFavCollRV.xib
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/wine/!svn/ver/345/app/ios/Wine/QianLvTiaoYi/JSStoreFavCollRV.xib
+END
+JSCommentDetailTVC.m
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/wine/!svn/ver/621/app/ios/Wine/QianLvTiaoYi/JSCommentDetailTVC.m
+END
+JSHelpCenterTVC.m
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/wine/!svn/ver/621/app/ios/Wine/QianLvTiaoYi/JSHelpCenterTVC.m
+END
+JSGetCouponTVC.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/wine/!svn/ver/307/app/ios/Wine/QianLvTiaoYi/JSGetCouponTVC.h
+END
+JSCDContentCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/wine/!svn/ver/338/app/ios/Wine/QianLvTiaoYi/JSCDContentCell.h
+END
+qq.png
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/wine/!svn/ver/6/app/ios/Wine/QianLvTiaoYi/qq.png
+END
+JSGoodsFavFliterTVCell.xib
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/wine/!svn/ver/54/app/ios/Wine/QianLvTiaoYi/JSGoodsFavFliterTVCell.xib
+END
+JSOrderListTVC.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/wine/!svn/ver/6/app/ios/Wine/QianLvTiaoYi/JSOrderListTVC.h
+END
+JSLoginTVC.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/wine/!svn/ver/6/app/ios/Wine/QianLvTiaoYi/JSLoginTVC.h
+END
+JSGetCouponTVC.m
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/wine/!svn/ver/393/app/ios/Wine/QianLvTiaoYi/JSGetCouponTVC.m
+END
+JSCommitPointsCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/wine/!svn/ver/6/app/ios/Wine/QianLvTiaoYi/JSCommitPointsCell.h
+END
+JSCDContentCell.m
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/wine/!svn/ver/338/app/ios/Wine/QianLvTiaoYi/JSCDContentCell.m
+END
+JSOrderListTVC.m
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/wine/!svn/ver/139/app/ios/Wine/QianLvTiaoYi/JSOrderListTVC.m
+END
+JSLogisticsInfoTVC.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/wine/!svn/ver/292/app/ios/Wine/QianLvTiaoYi/JSLogisticsInfoTVC.h
+END
+hongbaos9.png
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/wine/!svn/ver/115/app/ios/Wine/QianLvTiaoYi/hongbaos9.png
+END
+JSLoginTVC.m
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/wine/!svn/ver/621/app/ios/Wine/QianLvTiaoYi/JSLoginTVC.m
+END
+JSCommitPointsCell.m
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/wine/!svn/ver/6/app/ios/Wine/QianLvTiaoYi/JSCommitPointsCell.m
+END
+JSCOInvoiceTVC.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/wine/!svn/ver/345/app/ios/Wine/QianLvTiaoYi/JSCOInvoiceTVC.h
+END
+WMMemberCenterTVC.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/wine/!svn/ver/28/app/ios/Wine/QianLvTiaoYi/WMMemberCenterTVC.h
+END
+JSLogisticsInfoTVC.m
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/wine/!svn/ver/621/app/ios/Wine/QianLvTiaoYi/JSLogisticsInfoTVC.m
+END
+JSCDFirstCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/wine/!svn/ver/338/app/ios/Wine/QianLvTiaoYi/JSCDFirstCell.h
+END
+WMOrderStatusCount.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/wine/!svn/ver/292/app/ios/Wine/QianLvTiaoYi/WMOrderStatusCount.h
+END
+JSCOInvoiceTVC.m
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/wine/!svn/ver/345/app/ios/Wine/QianLvTiaoYi/JSCOInvoiceTVC.m
+END
+PRFilterAddressCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/wine/!svn/ver/8/app/ios/Wine/QianLvTiaoYi/PRFilterAddressCell.h
+END
+JSMemberCenterCV.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/wine/!svn/ver/6/app/ios/Wine/QianLvTiaoYi/JSMemberCenterCV.h
+END
+WMMemberCenterTVC.m
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/wine/!svn/ver/28/app/ios/Wine/QianLvTiaoYi/WMMemberCenterTVC.m
+END
+PersonalInfo.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/wine/!svn/ver/189/app/ios/Wine/QianLvTiaoYi/PersonalInfo.h
+END
+JSGDActivityView.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/wine/!svn/ver/307/app/ios/Wine/QianLvTiaoYi/JSGDActivityView.h
+END
+WMGuessLike.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/wine/!svn/ver/231/app/ios/Wine/QianLvTiaoYi/WMGuessLike.h
+END
+JSCDFirstCell.m
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/wine/!svn/ver/338/app/ios/Wine/QianLvTiaoYi/JSCDFirstCell.m
+END
+WMOrderStatusCount.m
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/wine/!svn/ver/291/app/ios/Wine/QianLvTiaoYi/WMOrderStatusCount.m
+END
+PRFilterAddressCell.m
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/wine/!svn/ver/8/app/ios/Wine/QianLvTiaoYi/PRFilterAddressCell.m
+END
+JSMemberCenterCV.m
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/wine/!svn/ver/6/app/ios/Wine/QianLvTiaoYi/JSMemberCenterCV.m
+END
+JSConsumeDetailTVCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/wine/!svn/ver/245/app/ios/Wine/QianLvTiaoYi/JSConsumeDetailTVCell.h
+END
+JSGDActivityView.m
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/wine/!svn/ver/307/app/ios/Wine/QianLvTiaoYi/JSGDActivityView.m
+END
+CartShopModel.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/wine/!svn/ver/27/app/ios/Wine/QianLvTiaoYi/CartShopModel.h
+END
+PersonalInfo.m
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/wine/!svn/ver/6/app/ios/Wine/QianLvTiaoYi/PersonalInfo.m
+END
+WMGuessLike.m
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/wine/!svn/ver/149/app/ios/Wine/QianLvTiaoYi/WMGuessLike.m
+END
+JSMarketGoodsCVC.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/wine/!svn/ver/189/app/ios/Wine/QianLvTiaoYi/JSMarketGoodsCVC.h
+END
+JSConsumeDetailTVCell.m
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/wine/!svn/ver/245/app/ios/Wine/QianLvTiaoYi/JSConsumeDetailTVCell.m
+END
+CartShopModel.m
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/wine/!svn/ver/27/app/ios/Wine/QianLvTiaoYi/CartShopModel.m
+END
+JSCancleOrderView.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/wine/!svn/ver/355/app/ios/Wine/QianLvTiaoYi/JSCancleOrderView.h
+END
+WMSGCounts.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/wine/!svn/ver/212/app/ios/Wine/QianLvTiaoYi/WMSGCounts.h
+END
+JSODInvoiceCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/wine/!svn/ver/144/app/ios/Wine/QianLvTiaoYi/JSODInvoiceCell.h
+END
+JSMarketGoodsCVC.m
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/wine/!svn/ver/191/app/ios/Wine/QianLvTiaoYi/JSMarketGoodsCVC.m
+END
+JSBindingPhoneTVC.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/wine/!svn/ver/271/app/ios/Wine/QianLvTiaoYi/JSBindingPhoneTVC.h
+END
+JSCancleOrderView.m
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/wine/!svn/ver/538/app/ios/Wine/QianLvTiaoYi/JSCancleOrderView.m
+END
+WMSGCounts.m
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/wine/!svn/ver/212/app/ios/Wine/QianLvTiaoYi/WMSGCounts.m
+END
+JSODInvoiceCell.m
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/wine/!svn/ver/144/app/ios/Wine/QianLvTiaoYi/JSODInvoiceCell.m
+END
+JSBindingPhoneTVC.m
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/wine/!svn/ver/621/app/ios/Wine/QianLvTiaoYi/JSBindingPhoneTVC.m
+END
+PRFilterButton1Item.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/wine/!svn/ver/8/app/ios/Wine/QianLvTiaoYi/PRFilterButton1Item.h
+END
+wuliu1.png
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/wine/!svn/ver/293/app/ios/Wine/QianLvTiaoYi/wuliu1.png
+END
+PRFilterButton1Item.m
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/wine/!svn/ver/8/app/ios/Wine/QianLvTiaoYi/PRFilterButton1Item.m
+END
+JSShopListVC.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/wine/!svn/ver/217/app/ios/Wine/QianLvTiaoYi/JSShopListVC.h
+END
+Default@3x.png
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/wine/!svn/ver/449/app/ios/Wine/QianLvTiaoYi/Default@3x.png
+END
+GetOrderDetail.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/wine/!svn/ver/6/app/ios/Wine/QianLvTiaoYi/GetOrderDetail.h
+END
+Item.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/wine/!svn/ver/6/app/ios/Wine/QianLvTiaoYi/Item.h
+END
+JSShopListVC.m
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/wine/!svn/ver/565/app/ios/Wine/QianLvTiaoYi/JSShopListVC.m
+END
+JSGoodsDetailGroupCell.xib
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/wine/!svn/ver/281/app/ios/Wine/QianLvTiaoYi/JSGoodsDetailGroupCell.xib
+END
+GetOrderDetail.m
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/wine/!svn/ver/149/app/ios/Wine/QianLvTiaoYi/GetOrderDetail.m
+END
+Item.m
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/wine/!svn/ver/6/app/ios/Wine/QianLvTiaoYi/Item.m
+END
+WMRushRedPacket.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/wine/!svn/ver/307/app/ios/Wine/QianLvTiaoYi/WMRushRedPacket.h
+END
+JSRedPacketTVCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/wine/!svn/ver/307/app/ios/Wine/QianLvTiaoYi/JSRedPacketTVCell.h
+END
+WMShopList.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/wine/!svn/ver/565/app/ios/Wine/QianLvTiaoYi/WMShopList.h
+END
+GetSystemNewsData.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/wine/!svn/ver/256/app/ios/Wine/QianLvTiaoYi/GetSystemNewsData.h
+END
+Goods.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/wine/!svn/ver/304/app/ios/Wine/QianLvTiaoYi/Goods.h
+END
+JSTodayShopTVCell.xib
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/wine/!svn/ver/191/app/ios/Wine/QianLvTiaoYi/JSTodayShopTVCell.xib
+END
+WMRushRedPacket.m
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/wine/!svn/ver/166/app/ios/Wine/QianLvTiaoYi/WMRushRedPacket.m
+END
+JSRedPacketTVCell.m
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/wine/!svn/ver/307/app/ios/Wine/QianLvTiaoYi/JSRedPacketTVCell.m
+END
+WMShopList.m
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/wine/!svn/ver/217/app/ios/Wine/QianLvTiaoYi/WMShopList.m
+END
+GetSystemNewsData.m
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/wine/!svn/ver/256/app/ios/Wine/QianLvTiaoYi/GetSystemNewsData.m
+END
+Goods.m
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/wine/!svn/ver/189/app/ios/Wine/QianLvTiaoYi/Goods.m
+END
+JSPayStylePayCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/wine/!svn/ver/6/app/ios/Wine/QianLvTiaoYi/JSPayStylePayCell.h
+END
+JSTodayShopTVCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/wine/!svn/ver/189/app/ios/Wine/QianLvTiaoYi/JSTodayShopTVCell.h
+END
+JSPayStylePayCell.m
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/wine/!svn/ver/6/app/ios/Wine/QianLvTiaoYi/JSPayStylePayCell.m
+END
+JSTodayShopTVCell.m
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/wine/!svn/ver/189/app/ios/Wine/QianLvTiaoYi/JSTodayShopTVCell.m
+END
+JSIdeaListCell.xib
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/wine/!svn/ver/565/app/ios/Wine/QianLvTiaoYi/JSIdeaListCell.xib
+END
+areaInfo.plist
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/wine/!svn/ver/6/app/ios/Wine/QianLvTiaoYi/areaInfo.plist
+END
+home_NOTOP.jpg
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/wine/!svn/ver/6/app/ios/Wine/QianLvTiaoYi/home_NOTOP.jpg
+END
+GetLogisticsInfoData.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/wine/!svn/ver/292/app/ios/Wine/QianLvTiaoYi/GetLogisticsInfoData.h
+END
+WMResetPrice.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/wine/!svn/ver/338/app/ios/Wine/QianLvTiaoYi/WMResetPrice.h
+END
+GetLogisticsInfoData.m
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/wine/!svn/ver/293/app/ios/Wine/QianLvTiaoYi/GetLogisticsInfoData.m
+END
+JSCBGoodsCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/wine/!svn/ver/329/app/ios/Wine/QianLvTiaoYi/JSCBGoodsCell.h
+END
+WMResetPrice.m
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/wine/!svn/ver/326/app/ios/Wine/QianLvTiaoYi/WMResetPrice.m
+END
+ChildOrder.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/wine/!svn/ver/338/app/ios/Wine/QianLvTiaoYi/ChildOrder.h
+END
+JSCBGoodsCell.m
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/wine/!svn/ver/329/app/ios/Wine/QianLvTiaoYi/JSCBGoodsCell.m
+END
+ChildOrder.m
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/wine/!svn/ver/149/app/ios/Wine/QianLvTiaoYi/ChildOrder.m
+END
+PRSliderController.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/wine/!svn/ver/551/app/ios/Wine/QianLvTiaoYi/PRSliderController.h
+END
+GetFliterInfoData.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/wine/!svn/ver/246/app/ios/Wine/QianLvTiaoYi/GetFliterInfoData.h
+END
+JSMarketTabVCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/wine/!svn/ver/189/app/ios/Wine/QianLvTiaoYi/JSMarketTabVCell.h
+END
+PRSliderController.m
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/wine/!svn/ver/566/app/ios/Wine/QianLvTiaoYi/PRSliderController.m
+END
+PRSliderSpecCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/wine/!svn/ver/6/app/ios/Wine/QianLvTiaoYi/PRSliderSpecCell.h
+END
+GetFliterInfoData.m
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/wine/!svn/ver/246/app/ios/Wine/QianLvTiaoYi/GetFliterInfoData.m
+END
+JSMarketTabVCell.m
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/wine/!svn/ver/189/app/ios/Wine/QianLvTiaoYi/JSMarketTabVCell.m
+END
+PRSliderSpecCell.m
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/wine/!svn/ver/6/app/ios/Wine/QianLvTiaoYi/PRSliderSpecCell.m
+END
+upcasex.png
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/wine/!svn/ver/115/app/ios/Wine/QianLvTiaoYi/upcasex.png
+END
+weChat.png
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/wine/!svn/ver/6/app/ios/Wine/QianLvTiaoYi/weChat.png
+END
+JSCrowdImageCell.xib
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/wine/!svn/ver/616/app/ios/Wine/QianLvTiaoYi/JSCrowdImageCell.xib
+END
+JSSelectCommentTVC.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/wine/!svn/ver/304/app/ios/Wine/QianLvTiaoYi/JSSelectCommentTVC.h
+END
+GetActivityGoodsListData.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/wine/!svn/ver/178/app/ios/Wine/QianLvTiaoYi/GetActivityGoodsListData.h
+END
+JSCommitGoodsCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/wine/!svn/ver/318/app/ios/Wine/QianLvTiaoYi/JSCommitGoodsCell.h
+END
+JSSelectCommentTVC.m
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/wine/!svn/ver/621/app/ios/Wine/QianLvTiaoYi/JSSelectCommentTVC.m
+END
+JSFavoriteStoreVC.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/wine/!svn/ver/36/app/ios/Wine/QianLvTiaoYi/JSFavoriteStoreVC.h
+END
+GetActivityGoodsListData.m
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/wine/!svn/ver/178/app/ios/Wine/QianLvTiaoYi/GetActivityGoodsListData.m
+END
+JSCommitGoodsCell.m
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/wine/!svn/ver/6/app/ios/Wine/QianLvTiaoYi/JSCommitGoodsCell.m
+END
+JSHomePageADCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/wine/!svn/ver/9/app/ios/Wine/QianLvTiaoYi/JSHomePageADCell.h
+END
+JSFavoriteStoreVC.m
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/wine/!svn/ver/36/app/ios/Wine/QianLvTiaoYi/JSFavoriteStoreVC.m
+END
+JSAddressDefaultCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/wine/!svn/ver/115/app/ios/Wine/QianLvTiaoYi/JSAddressDefaultCell.h
+END
+JSCAGoodsPopupView.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/wine/!svn/ver/245/app/ios/Wine/QianLvTiaoYi/JSCAGoodsPopupView.h
+END
+JSCommitAddressCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/wine/!svn/ver/6/app/ios/Wine/QianLvTiaoYi/JSCommitAddressCell.h
+END
+JSHomePageADCell.m
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/wine/!svn/ver/9/app/ios/Wine/QianLvTiaoYi/JSHomePageADCell.m
+END
+JSAddressDefaultCell.m
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/wine/!svn/ver/115/app/ios/Wine/QianLvTiaoYi/JSAddressDefaultCell.m
+END
+JSEvaluateView.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/wine/!svn/ver/270/app/ios/Wine/QianLvTiaoYi/JSEvaluateView.h
+END
+JSCAGoodsPopupView.m
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/wine/!svn/ver/245/app/ios/Wine/QianLvTiaoYi/JSCAGoodsPopupView.m
+END
+JSCommitAddressCell.m
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/wine/!svn/ver/6/app/ios/Wine/QianLvTiaoYi/JSCommitAddressCell.m
+END
+WMPch.pch
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/wine/!svn/ver/615/app/ios/Wine/QianLvTiaoYi/WMPch.pch
+END
+JSEvaluateView.m
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/wine/!svn/ver/565/app/ios/Wine/QianLvTiaoYi/JSEvaluateView.m
+END
+GetConsumeData.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/wine/!svn/ver/245/app/ios/Wine/QianLvTiaoYi/GetConsumeData.h
+END
+JSSystemMessageTVC.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/wine/!svn/ver/149/app/ios/Wine/QianLvTiaoYi/JSSystemMessageTVC.h
+END
+createdOrder.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/wine/!svn/ver/245/app/ios/Wine/QianLvTiaoYi/createdOrder.h
+END
+GetConsumeData.m
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/wine/!svn/ver/245/app/ios/Wine/QianLvTiaoYi/GetConsumeData.m
+END
+JSSystemMessageTVC.m
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/wine/!svn/ver/621/app/ios/Wine/QianLvTiaoYi/JSSystemMessageTVC.m
+END
+createdOrder.m
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/wine/!svn/ver/6/app/ios/Wine/QianLvTiaoYi/createdOrder.m
+END
+GetMarketGoodsData.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/wine/!svn/ver/189/app/ios/Wine/QianLvTiaoYi/GetMarketGoodsData.h
+END
+ModelHeader.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/wine/!svn/ver/6/app/ios/Wine/QianLvTiaoYi/ModelHeader.h
+END
+WMShopGoods.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/wine/!svn/ver/212/app/ios/Wine/QianLvTiaoYi/WMShopGoods.h
+END
+JSGoFavTransparentVC.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/wine/!svn/ver/54/app/ios/Wine/QianLvTiaoYi/JSGoFavTransparentVC.h
+END
+JSCommentCenterTVCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/wine/!svn/ver/66/app/ios/Wine/QianLvTiaoYi/JSCommentCenterTVCell.h
+END
+GoodsParameter.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/wine/!svn/ver/6/app/ios/Wine/QianLvTiaoYi/GoodsParameter.h
+END
+GetMarketGoodsData.m
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/wine/!svn/ver/189/app/ios/Wine/QianLvTiaoYi/GetMarketGoodsData.m
+END
+PRFilterButton1Item.xib
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/wine/!svn/ver/52/app/ios/Wine/QianLvTiaoYi/PRFilterButton1Item.xib
+END
+WMShopGoods.m
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/wine/!svn/ver/212/app/ios/Wine/QianLvTiaoYi/WMShopGoods.m
+END
+JSGoFavTransparentVC.m
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/wine/!svn/ver/54/app/ios/Wine/QianLvTiaoYi/JSGoFavTransparentVC.m
+END
+JSCommentCenterTVCell.m
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/wine/!svn/ver/66/app/ios/Wine/QianLvTiaoYi/JSCommentCenterTVCell.m
+END
+JSGuessLikeCVCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/wine/!svn/ver/111/app/ios/Wine/QianLvTiaoYi/JSGuessLikeCVCell.h
+END
+GoodsParameter.m
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/wine/!svn/ver/6/app/ios/Wine/QianLvTiaoYi/GoodsParameter.m
+END
+JSAddressEditVC.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/wine/!svn/ver/166/app/ios/Wine/QianLvTiaoYi/JSAddressEditVC.h
+END
+JSGoodsDetaillDesc1Cell.xib
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/wine/!svn/ver/324/app/ios/Wine/QianLvTiaoYi/JSGoodsDetaillDesc1Cell.xib
+END
+wuliu2.png
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/wine/!svn/ver/293/app/ios/Wine/QianLvTiaoYi/wuliu2.png
+END
+JSGoodsDetailDescCell.xib
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/wine/!svn/ver/318/app/ios/Wine/QianLvTiaoYi/JSGoodsDetailDescCell.xib
+END
+JSGuessLikeCVCell.m
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/wine/!svn/ver/54/app/ios/Wine/QianLvTiaoYi/JSGuessLikeCVCell.m
+END
+JSAddressEditVC.m
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/wine/!svn/ver/292/app/ios/Wine/QianLvTiaoYi/JSAddressEditVC.m
+END
+JSGoodsDetailNameCell.xib
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/wine/!svn/ver/616/app/ios/Wine/QianLvTiaoYi/JSGoodsDetailNameCell.xib
+END
+JSGoodsDetaillDesc3Cell.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/wine/!svn/ver/270/app/ios/Wine/QianLvTiaoYi/JSGoodsDetaillDesc3Cell.h
+END
+JSStoreDetailTVC.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/wine/!svn/ver/217/app/ios/Wine/QianLvTiaoYi/JSStoreDetailTVC.h
+END
+JSMemberInfoTVC.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/wine/!svn/ver/6/app/ios/Wine/QianLvTiaoYi/JSMemberInfoTVC.h
+END
+JSGoodsDetaillDesc3Cell.m
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/wine/!svn/ver/270/app/ios/Wine/QianLvTiaoYi/JSGoodsDetaillDesc3Cell.m
+END
+JSGoodsDetailImageCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/wine/!svn/ver/6/app/ios/Wine/QianLvTiaoYi/JSGoodsDetailImageCell.h
+END
+JSStoreDetailTVC.m
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/wine/!svn/ver/621/app/ios/Wine/QianLvTiaoYi/JSStoreDetailTVC.m
+END
+JSPayStyleVC.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/wine/!svn/ver/350/app/ios/Wine/QianLvTiaoYi/JSPayStyleVC.h
+END
+JSMemberInfoTVC.m
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/wine/!svn/ver/621/app/ios/Wine/QianLvTiaoYi/JSMemberInfoTVC.m
+END
+JSGoodsDetailImageCell.m
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/wine/!svn/ver/7/app/ios/Wine/QianLvTiaoYi/JSGoodsDetailImageCell.m
+END
+JSPayStyleVC.m
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/wine/!svn/ver/621/app/ios/Wine/QianLvTiaoYi/JSPayStyleVC.m
+END
+GetPointsData.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/wine/!svn/ver/92/app/ios/Wine/QianLvTiaoYi/GetPointsData.h
+END
+JSMarketActivityTVC.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/wine/!svn/ver/189/app/ios/Wine/QianLvTiaoYi/JSMarketActivityTVC.h
+END
+JSAdressListCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/wine/!svn/ver/166/app/ios/Wine/QianLvTiaoYi/JSAdressListCell.h
+END
+GetPointsData.m
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/wine/!svn/ver/613/app/ios/Wine/QianLvTiaoYi/GetPointsData.m
+END
+JSUserSecurityTVCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/wine/!svn/ver/66/app/ios/Wine/QianLvTiaoYi/JSUserSecurityTVCell.h
+END
+JSFavoriteStoreVC.xib
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/wine/!svn/ver/36/app/ios/Wine/QianLvTiaoYi/JSFavoriteStoreVC.xib
+END
+JSMarketActivityTVC.m
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/wine/!svn/ver/189/app/ios/Wine/QianLvTiaoYi/JSMarketActivityTVC.m
+END
+JSAdressListCell.m
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/wine/!svn/ver/65/app/ios/Wine/QianLvTiaoYi/JSAdressListCell.m
+END
+JSSignUpTVC.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/wine/!svn/ver/200/app/ios/Wine/QianLvTiaoYi/JSSignUpTVC.h
+END
+JSUserSecurityTVCell.m
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/wine/!svn/ver/66/app/ios/Wine/QianLvTiaoYi/JSUserSecurityTVCell.m
+END
+JSSignUpTVC.m
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/wine/!svn/ver/620/app/ios/Wine/QianLvTiaoYi/JSSignUpTVC.m
+END
+GetGuessLikeData.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/wine/!svn/ver/144/app/ios/Wine/QianLvTiaoYi/GetGuessLikeData.h
+END
+PRSliderHeaderView.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/wine/!svn/ver/551/app/ios/Wine/QianLvTiaoYi/PRSliderHeaderView.h
+END
+JSFavoriteTVC.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/wine/!svn/ver/6/app/ios/Wine/QianLvTiaoYi/JSFavoriteTVC.h
+END
+GetGuessLikeData.m
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/wine/!svn/ver/149/app/ios/Wine/QianLvTiaoYi/GetGuessLikeData.m
+END
+JSSCRecommentLabCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/wine/!svn/ver/196/app/ios/Wine/QianLvTiaoYi/JSSCRecommentLabCell.h
+END
+WMBanners.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/wine/!svn/ver/179/app/ios/Wine/QianLvTiaoYi/WMBanners.h
+END
+PRSliderHeaderView.m
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/wine/!svn/ver/6/app/ios/Wine/QianLvTiaoYi/PRSliderHeaderView.m
+END
+JSFavoriteTVC.m
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/wine/!svn/ver/189/app/ios/Wine/QianLvTiaoYi/JSFavoriteTVC.m
+END
+JSSCRecommentLabCell.m
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/wine/!svn/ver/196/app/ios/Wine/QianLvTiaoYi/JSSCRecommentLabCell.m
+END
+ShoppingCart.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/wine/!svn/ver/125/app/ios/Wine/QianLvTiaoYi/ShoppingCart.h
+END
+WMBanners.m
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/wine/!svn/ver/179/app/ios/Wine/QianLvTiaoYi/WMBanners.m
+END
+JSSearchNavigationBar.xib
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/wine/!svn/ver/192/app/ios/Wine/QianLvTiaoYi/JSSearchNavigationBar.xib
+END
+WMIdeaList.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/wine/!svn/ver/271/app/ios/Wine/QianLvTiaoYi/WMIdeaList.h
+END
+ShoppingCart.m
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/wine/!svn/ver/6/app/ios/Wine/QianLvTiaoYi/ShoppingCart.m
+END
+WMIdeaList.m
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/wine/!svn/ver/271/app/ios/Wine/QianLvTiaoYi/WMIdeaList.m
+END
+WMRedCounts.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/wine/!svn/ver/130/app/ios/Wine/QianLvTiaoYi/WMRedCounts.h
+END
+homePage.jpg
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/wine/!svn/ver/6/app/ios/Wine/QianLvTiaoYi/homePage.jpg
+END
+JSIntegralTabVCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/wine/!svn/ver/123/app/ios/Wine/QianLvTiaoYi/JSIntegralTabVCell.h
+END
+WMRedCounts.m
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/wine/!svn/ver/115/app/ios/Wine/QianLvTiaoYi/WMRedCounts.m
+END
+GetHotSearch.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/wine/!svn/ver/7/app/ios/Wine/QianLvTiaoYi/GetHotSearch.h
+END
+GetCommentBannerData.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/wine/!svn/ver/131/app/ios/Wine/QianLvTiaoYi/GetCommentBannerData.h
+END
+JSSCDistributeStyleCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/wine/!svn/ver/208/app/ios/Wine/QianLvTiaoYi/JSSCDistributeStyleCell.h
+END
+JSIntegralTabVCell.m
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/wine/!svn/ver/123/app/ios/Wine/QianLvTiaoYi/JSIntegralTabVCell.m
+END
+PRFilterButton2Item.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/wine/!svn/ver/8/app/ios/Wine/QianLvTiaoYi/PRFilterButton2Item.h
+END
+GetHotSearch.m
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/wine/!svn/ver/7/app/ios/Wine/QianLvTiaoYi/GetHotSearch.m
+END
+JSOrderDetailGoodsCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/wine/!svn/ver/6/app/ios/Wine/QianLvTiaoYi/JSOrderDetailGoodsCell.h
+END
+GetCommentBannerData.m
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/wine/!svn/ver/131/app/ios/Wine/QianLvTiaoYi/GetCommentBannerData.m
+END
+JSSCDistributeStyleCell.m
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/wine/!svn/ver/208/app/ios/Wine/QianLvTiaoYi/JSSCDistributeStyleCell.m
+END
+JSCustomNC.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/wine/!svn/ver/8/app/ios/Wine/QianLvTiaoYi/JSCustomNC.h
+END
+JSContact.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/wine/!svn/ver/92/app/ios/Wine/QianLvTiaoYi/JSContact.h
+END
+PRFilterButton2Item.m
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/wine/!svn/ver/8/app/ios/Wine/QianLvTiaoYi/PRFilterButton2Item.m
+END
+JSOrderDetailGoodsCell.m
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/wine/!svn/ver/6/app/ios/Wine/QianLvTiaoYi/JSOrderDetailGoodsCell.m
+END
+MemberCenters.storyboard
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/wine/!svn/ver/28/app/ios/Wine/QianLvTiaoYi/MemberCenters.storyboard
+END
+JSCustomNC.m
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/wine/!svn/ver/8/app/ios/Wine/QianLvTiaoYi/JSCustomNC.m
+END
+JSMemberCenterCVCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/wine/!svn/ver/6/app/ios/Wine/QianLvTiaoYi/JSMemberCenterCVCell.h
+END
+GetGoodsFavData.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/wine/!svn/ver/99/app/ios/Wine/QianLvTiaoYi/GetGoodsFavData.h
+END
+JSCommitInvoiceCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/wine/!svn/ver/345/app/ios/Wine/QianLvTiaoYi/JSCommitInvoiceCell.h
+END
+PRUitls.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/wine/!svn/ver/6/app/ios/Wine/QianLvTiaoYi/PRUitls.h
+END
+JSMemberCenterCVCell.m
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/wine/!svn/ver/6/app/ios/Wine/QianLvTiaoYi/JSMemberCenterCVCell.m
+END
+JSGoodsFavFliterTopNav.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/wine/!svn/ver/54/app/ios/Wine/QianLvTiaoYi/JSGoodsFavFliterTopNav.h
+END
+JSEvaluateNoImageCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/wine/!svn/ver/336/app/ios/Wine/QianLvTiaoYi/JSEvaluateNoImageCell.h
+END
+JSUPAlertView.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/wine/!svn/ver/271/app/ios/Wine/QianLvTiaoYi/JSUPAlertView.h
+END
+GetGoodsFavData.m
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/wine/!svn/ver/99/app/ios/Wine/QianLvTiaoYi/GetGoodsFavData.m
+END
+JSCommitInvoiceCell.m
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/wine/!svn/ver/208/app/ios/Wine/QianLvTiaoYi/JSCommitInvoiceCell.m
+END
+PRUitls.m
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/wine/!svn/ver/614/app/ios/Wine/QianLvTiaoYi/PRUitls.m
+END
+JSGoodsFavFliterTopNav.m
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/wine/!svn/ver/54/app/ios/Wine/QianLvTiaoYi/JSGoodsFavFliterTopNav.m
+END
+JSEvaluateNoImageCell.m
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/wine/!svn/ver/6/app/ios/Wine/QianLvTiaoYi/JSEvaluateNoImageCell.m
+END
+JSUPAlertView.m
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/wine/!svn/ver/271/app/ios/Wine/QianLvTiaoYi/JSUPAlertView.m
+END
+JSEvaluateTopBar.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/wine/!svn/ver/270/app/ios/Wine/QianLvTiaoYi/JSEvaluateTopBar.h
+END
+GetNewGoodsData.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/wine/!svn/ver/177/app/ios/Wine/QianLvTiaoYi/GetNewGoodsData.h
+END
+JSEvaluateTopBar.m
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/wine/!svn/ver/270/app/ios/Wine/QianLvTiaoYi/JSEvaluateTopBar.m
+END
+GetBannersData.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/wine/!svn/ver/179/app/ios/Wine/QianLvTiaoYi/GetBannersData.h
+END
+GetNewGoodsData.m
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/wine/!svn/ver/177/app/ios/Wine/QianLvTiaoYi/GetNewGoodsData.m
+END
+WMSystemNews.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/wine/!svn/ver/262/app/ios/Wine/QianLvTiaoYi/WMSystemNews.h
+END
+GetBannersData.m
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/wine/!svn/ver/179/app/ios/Wine/QianLvTiaoYi/GetBannersData.m
+END
+WMSystemNews.m
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/wine/!svn/ver/256/app/ios/Wine/QianLvTiaoYi/WMSystemNews.m
+END
+JSGoodsFavView.xib
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/wine/!svn/ver/304/app/ios/Wine/QianLvTiaoYi/JSGoodsFavView.xib
+END
+JSGuessLikeCollectionCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/wine/!svn/ver/6/app/ios/Wine/QianLvTiaoYi/JSGuessLikeCollectionCell.h
+END
+PRSegmentControl.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/wine/!svn/ver/6/app/ios/Wine/QianLvTiaoYi/PRSegmentControl.h
+END
+JSSCEditCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/wine/!svn/ver/27/app/ios/Wine/QianLvTiaoYi/JSSCEditCell.h
+END
+JSGuessLikeCollectionCell.m
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/wine/!svn/ver/6/app/ios/Wine/QianLvTiaoYi/JSGuessLikeCollectionCell.m
+END
+PRSegmentControl.m
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/wine/!svn/ver/6/app/ios/Wine/QianLvTiaoYi/PRSegmentControl.m
+END
+JSSCEditCell.m
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/wine/!svn/ver/414/app/ios/Wine/QianLvTiaoYi/JSSCEditCell.m
+END
+GetHomePageData.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/wine/!svn/ver/9/app/ios/Wine/QianLvTiaoYi/GetHomePageData.h
+END
+WMLogisticsInfo.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/wine/!svn/ver/293/app/ios/Wine/QianLvTiaoYi/WMLogisticsInfo.h
+END
+JSIdeaListView.xib
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/wine/!svn/ver/554/app/ios/Wine/QianLvTiaoYi/JSIdeaListView.xib
+END
+GetHomePageData.m
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/wine/!svn/ver/39/app/ios/Wine/QianLvTiaoYi/GetHomePageData.m
+END
+WMLogisticsInfo.m
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/wine/!svn/ver/293/app/ios/Wine/QianLvTiaoYi/WMLogisticsInfo.m
+END
+JSGoodsFavCollRV.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/wine/!svn/ver/253/app/ios/Wine/QianLvTiaoYi/JSGoodsFavCollRV.h
+END
+UINavigationController+CustomStyle.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/wine/!svn/ver/6/app/ios/Wine/QianLvTiaoYi/UINavigationController+CustomStyle.h
+END
+JSGoodsFavCollRV.m
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/wine/!svn/ver/253/app/ios/Wine/QianLvTiaoYi/JSGoodsFavCollRV.m
+END
+UINavigationController+CustomStyle.m
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/wine/!svn/ver/6/app/ios/Wine/QianLvTiaoYi/UINavigationController+CustomStyle.m
+END
+JSRechargeStyleCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/wine/!svn/ver/337/app/ios/Wine/QianLvTiaoYi/JSRechargeStyleCell.h
+END
+PRTabBarController.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/wine/!svn/ver/103/app/ios/Wine/QianLvTiaoYi/PRTabBarController.h
+END
+JSHomePageSectionView.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/wine/!svn/ver/9/app/ios/Wine/QianLvTiaoYi/JSHomePageSectionView.h
+END
+JSRechargeStyleCell.m
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/wine/!svn/ver/337/app/ios/Wine/QianLvTiaoYi/JSRechargeStyleCell.m
+END
+WMFliterInfo.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/wine/!svn/ver/248/app/ios/Wine/QianLvTiaoYi/WMFliterInfo.h
+END
+PRTabBarController.m
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/wine/!svn/ver/567/app/ios/Wine/QianLvTiaoYi/PRTabBarController.m
+END
+JSHomePageSectionView.m
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/wine/!svn/ver/7/app/ios/Wine/QianLvTiaoYi/JSHomePageSectionView.m
+END
+JSCAGoodsPopGaryView.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/wine/!svn/ver/245/app/ios/Wine/QianLvTiaoYi/JSCAGoodsPopGaryView.h
+END
+WMFliterInfo.m
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/wine/!svn/ver/313/app/ios/Wine/QianLvTiaoYi/WMFliterInfo.m
+END
+WMGoodsFav.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/wine/!svn/ver/110/app/ios/Wine/QianLvTiaoYi/WMGoodsFav.h
+END
+noimage.png
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/wine/!svn/ver/111/app/ios/Wine/QianLvTiaoYi/noimage.png
+END
+JSCAGoodsPopGaryView.m
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/wine/!svn/ver/245/app/ios/Wine/QianLvTiaoYi/JSCAGoodsPopGaryView.m
+END
+JSCrowdImageCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/wine/!svn/ver/507/app/ios/Wine/QianLvTiaoYi/JSCrowdImageCell.h
+END
+WMGeneralTool.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/wine/!svn/ver/614/app/ios/Wine/QianLvTiaoYi/WMGeneralTool.h
+END
+WMGoodsFav.m
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/wine/!svn/ver/99/app/ios/Wine/QianLvTiaoYi/WMGoodsFav.m
+END
+JSCrowdImageCell.m
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/wine/!svn/ver/507/app/ios/Wine/QianLvTiaoYi/JSCrowdImageCell.m
+END
+JSCommitDescCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/wine/!svn/ver/208/app/ios/Wine/QianLvTiaoYi/JSCommitDescCell.h
+END
+WMGeneralTool.m
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/wine/!svn/ver/616/app/ios/Wine/QianLvTiaoYi/WMGeneralTool.m
+END
+DXPopover.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/wine/!svn/ver/7/app/ios/Wine/QianLvTiaoYi/DXPopover.h
+END
+JSCrowdInfoCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/wine/!svn/ver/530/app/ios/Wine/QianLvTiaoYi/JSCrowdInfoCell.h
+END
+JSCommitDescCell.m
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/wine/!svn/ver/6/app/ios/Wine/QianLvTiaoYi/JSCommitDescCell.m
+END
+JSResetPasswordVC.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/wine/!svn/ver/6/app/ios/Wine/QianLvTiaoYi/JSResetPasswordVC.h
+END
+DXPopover.m
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/wine/!svn/ver/7/app/ios/Wine/QianLvTiaoYi/DXPopover.m
+END
+JSRushShoppingTVCell.xib
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/wine/!svn/ver/616/app/ios/Wine/QianLvTiaoYi/JSRushShoppingTVCell.xib
+END
+JSCrowdInfoCell.m
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/wine/!svn/ver/514/app/ios/Wine/QianLvTiaoYi/JSCrowdInfoCell.m
+END
+GetCommentCenterData.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/wine/!svn/ver/337/app/ios/Wine/QianLvTiaoYi/GetCommentCenterData.h
+END
+JSResetPasswordVC.m
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/wine/!svn/ver/6/app/ios/Wine/QianLvTiaoYi/JSResetPasswordVC.m
+END
+GetCommentCenterData.m
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/wine/!svn/ver/337/app/ios/Wine/QianLvTiaoYi/GetCommentCenterData.m
+END
+WMCouponGoods.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/wine/!svn/ver/167/app/ios/Wine/QianLvTiaoYi/WMCouponGoods.h
+END
+WMCouponGoods.m
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/wine/!svn/ver/167/app/ios/Wine/QianLvTiaoYi/WMCouponGoods.m
+END
+JSCommentBaskTVC.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/wine/!svn/ver/338/app/ios/Wine/QianLvTiaoYi/JSCommentBaskTVC.h
+END
+PRImageManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/wine/!svn/ver/176/app/ios/Wine/QianLvTiaoYi/PRImageManager.h
+END
+weixinfenx.png
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/wine/!svn/ver/566/app/ios/Wine/QianLvTiaoYi/weixinfenx.png
+END
+JSCommentBaskTVC.m
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/wine/!svn/ver/621/app/ios/Wine/QianLvTiaoYi/JSCommentBaskTVC.m
+END
+PRImageManager.m
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/wine/!svn/ver/176/app/ios/Wine/QianLvTiaoYi/PRImageManager.m
+END
+JSCDImageCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/wine/!svn/ver/338/app/ios/Wine/QianLvTiaoYi/JSCDImageCell.h
+END
+JSGDCouponTVC.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/wine/!svn/ver/307/app/ios/Wine/QianLvTiaoYi/JSGDCouponTVC.h
+END
+GetGoodsDetailData.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/wine/!svn/ver/6/app/ios/Wine/QianLvTiaoYi/GetGoodsDetailData.h
+END
+ssdk_oks_logo_wechat.png
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/wine/!svn/ver/6/app/ios/Wine/QianLvTiaoYi/ssdk_oks_logo_wechat.png
+END
+JSODPayStyleCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/wine/!svn/ver/144/app/ios/Wine/QianLvTiaoYi/JSODPayStyleCell.h
+END
+JSGoodsDetaillDesc4Cell.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/wine/!svn/ver/270/app/ios/Wine/QianLvTiaoYi/JSGoodsDetaillDesc4Cell.h
+END
+JSCDImageCell.m
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/wine/!svn/ver/338/app/ios/Wine/QianLvTiaoYi/JSCDImageCell.m
+END
+JSHomePageSectionView.xib
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/wine/!svn/ver/111/app/ios/Wine/QianLvTiaoYi/JSHomePageSectionView.xib
+END
+JSGDCouponTVC.m
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/wine/!svn/ver/554/app/ios/Wine/QianLvTiaoYi/JSGDCouponTVC.m
+END
+GetGoodsDetailData.m
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/wine/!svn/ver/6/app/ios/Wine/QianLvTiaoYi/GetGoodsDetailData.m
+END
+JSGoodsFavFliterTopNav.xib
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/wine/!svn/ver/245/app/ios/Wine/QianLvTiaoYi/JSGoodsFavFliterTopNav.xib
+END
+JSEvaluateNoImageCell.xib
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/wine/!svn/ver/565/app/ios/Wine/QianLvTiaoYi/JSEvaluateNoImageCell.xib
+END
+PRFilterCollectionView.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/wine/!svn/ver/252/app/ios/Wine/QianLvTiaoYi/PRFilterCollectionView.h
+END
+JSODPayStyleCell.m
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/wine/!svn/ver/144/app/ios/Wine/QianLvTiaoYi/JSODPayStyleCell.m
+END
+JSGoodsDetaillDesc4Cell.m
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/wine/!svn/ver/270/app/ios/Wine/QianLvTiaoYi/JSGoodsDetaillDesc4Cell.m
+END
+ShoppingCart.storyboard
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/wine/!svn/ver/613/app/ios/Wine/QianLvTiaoYi/ShoppingCart.storyboard
+END
+PRFilterCollectionView.m
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/wine/!svn/ver/252/app/ios/Wine/QianLvTiaoYi/PRFilterCollectionView.m
+END
+JSSCRecommentCVCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/wine/!svn/ver/196/app/ios/Wine/QianLvTiaoYi/JSSCRecommentCVCell.h
+END
+JSSCEmptyView.xib
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/wine/!svn/ver/245/app/ios/Wine/QianLvTiaoYi/JSSCEmptyView.xib
+END
+JSCommitCouponCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/wine/!svn/ver/280/app/ios/Wine/QianLvTiaoYi/JSCommitCouponCell.h
+END
+JSSCRecommentCVCell.m
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/wine/!svn/ver/200/app/ios/Wine/QianLvTiaoYi/JSSCRecommentCVCell.m
+END
+HomePageVC.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/wine/!svn/ver/7/app/ios/Wine/QianLvTiaoYi/HomePageVC.h
+END
+JSCommitCouponCell.m
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/wine/!svn/ver/208/app/ios/Wine/QianLvTiaoYi/JSCommitCouponCell.m
+END
+JSRedPacketTabVC.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/wine/!svn/ver/115/app/ios/Wine/QianLvTiaoYi/JSRedPacketTabVC.h
+END
+Default.png
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/wine/!svn/ver/449/app/ios/Wine/QianLvTiaoYi/Default.png
+END
+Floor.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/wine/!svn/ver/9/app/ios/Wine/QianLvTiaoYi/Floor.h
+END
+GoodsBaseInfo.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/wine/!svn/ver/615/app/ios/Wine/QianLvTiaoYi/GoodsBaseInfo.h
+END
+HomePageVC.m
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/wine/!svn/ver/567/app/ios/Wine/QianLvTiaoYi/HomePageVC.m
+END
+JSUserSecurityTabVC.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/wine/!svn/ver/65/app/ios/Wine/QianLvTiaoYi/JSUserSecurityTabVC.h
+END
+JSRedPacketTabVC.m
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/wine/!svn/ver/621/app/ios/Wine/QianLvTiaoYi/JSRedPacketTabVC.m
+END
+JSCrowdCountCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/wine/!svn/ver/554/app/ios/Wine/QianLvTiaoYi/JSCrowdCountCell.h
+END
+Floor.m
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/wine/!svn/ver/9/app/ios/Wine/QianLvTiaoYi/Floor.m
+END
+HomePage.storyboard
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/wine/!svn/ver/617/app/ios/Wine/QianLvTiaoYi/HomePage.storyboard
+END
+GoodsBaseInfo.m
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/wine/!svn/ver/6/app/ios/Wine/QianLvTiaoYi/GoodsBaseInfo.m
+END
+JSSMDetailVC.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/wine/!svn/ver/256/app/ios/Wine/QianLvTiaoYi/JSSMDetailVC.h
+END
+JSUserSecurityTabVC.m
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/wine/!svn/ver/338/app/ios/Wine/QianLvTiaoYi/JSUserSecurityTabVC.m
+END
+WMOrderPay.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/wine/!svn/ver/245/app/ios/Wine/QianLvTiaoYi/WMOrderPay.h
+END
+JSCrowdCountCell.m
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/wine/!svn/ver/554/app/ios/Wine/QianLvTiaoYi/JSCrowdCountCell.m
+END
+GetShoppingCartData.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/wine/!svn/ver/27/app/ios/Wine/QianLvTiaoYi/GetShoppingCartData.h
+END
+PRSliderCollectionCell.xib
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/wine/!svn/ver/551/app/ios/Wine/QianLvTiaoYi/PRSliderCollectionCell.xib
+END
+JSSMDetailVC.m
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/wine/!svn/ver/257/app/ios/Wine/QianLvTiaoYi/JSSMDetailVC.m
+END
+WMStoreFav.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/wine/!svn/ver/111/app/ios/Wine/QianLvTiaoYi/WMStoreFav.h
+END
+WMOrderPay.m
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/wine/!svn/ver/245/app/ios/Wine/QianLvTiaoYi/WMOrderPay.m
+END
+GetShoppingCartData.m
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/wine/!svn/ver/27/app/ios/Wine/QianLvTiaoYi/GetShoppingCartData.m
+END
+JSRushShoppingTVCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/wine/!svn/ver/262/app/ios/Wine/QianLvTiaoYi/JSRushShoppingTVCell.h
+END
+PRDataBaseManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/wine/!svn/ver/6/app/ios/Wine/QianLvTiaoYi/PRDataBaseManager.h
+END
+WMStoreFav.m
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/wine/!svn/ver/110/app/ios/Wine/QianLvTiaoYi/WMStoreFav.m
+END
+JSGoodsListCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/wine/!svn/ver/9/app/ios/Wine/QianLvTiaoYi/JSGoodsListCell.h
+END
+JSRushShoppingTVCell.m
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/wine/!svn/ver/341/app/ios/Wine/QianLvTiaoYi/JSRushShoppingTVCell.m
+END
+PRDataBaseManager.m
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/wine/!svn/ver/6/app/ios/Wine/QianLvTiaoYi/PRDataBaseManager.m
+END
+JSIdeaBackVC.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/wine/!svn/ver/115/app/ios/Wine/QianLvTiaoYi/JSIdeaBackVC.h
+END
+JSGoodsListCell.m
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/wine/!svn/ver/7/app/ios/Wine/QianLvTiaoYi/JSGoodsListCell.m
+END
+WMAlertTool.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/wine/!svn/ver/138/app/ios/Wine/QianLvTiaoYi/WMAlertTool.h
+END
+GetThreeCountData.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/wine/!svn/ver/99/app/ios/Wine/QianLvTiaoYi/GetThreeCountData.h
+END
+JSIdeaBackVC.m
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/wine/!svn/ver/621/app/ios/Wine/QianLvTiaoYi/JSIdeaBackVC.m
+END
+WMAlertTool.m
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/wine/!svn/ver/138/app/ios/Wine/QianLvTiaoYi/WMAlertTool.m
+END
+GetThreeCountData.m
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/wine/!svn/ver/99/app/ios/Wine/QianLvTiaoYi/GetThreeCountData.m
+END
+PRFilterButton2Item.xib
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/wine/!svn/ver/245/app/ios/Wine/QianLvTiaoYi/PRFilterButton2Item.xib
+END
+JSGoodsFavoFliterTool.xib
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/wine/!svn/ver/54/app/ios/Wine/QianLvTiaoYi/JSGoodsFavoFliterTool.xib
+END
+JSGoodsDetaillDesc2Cell.xib
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/wine/!svn/ver/318/app/ios/Wine/QianLvTiaoYi/JSGoodsDetaillDesc2Cell.xib
+END
+JSOrderDetailOrderNoCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/wine/!svn/ver/6/app/ios/Wine/QianLvTiaoYi/JSOrderDetailOrderNoCell.h
+END
+JSMyAssetsTabVC.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/wine/!svn/ver/73/app/ios/Wine/QianLvTiaoYi/JSMyAssetsTabVC.h
+END
+PRFilterViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/wine/!svn/ver/308/app/ios/Wine/QianLvTiaoYi/PRFilterViewController.h
+END
+JSAddressEditLabelCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/wine/!svn/ver/6/app/ios/Wine/QianLvTiaoYi/JSAddressEditLabelCell.h
+END
+JSOrderDetailOrderNoCell.m
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/wine/!svn/ver/6/app/ios/Wine/QianLvTiaoYi/JSOrderDetailOrderNoCell.m
+END
+JSRechargeTVC.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/wine/!svn/ver/338/app/ios/Wine/QianLvTiaoYi/JSRechargeTVC.h
+END
+JSMyAssetsTabVC.m
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/wine/!svn/ver/338/app/ios/Wine/QianLvTiaoYi/JSMyAssetsTabVC.m
+END
+head.jpg
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/wine/!svn/ver/6/app/ios/Wine/QianLvTiaoYi/head.jpg
+END
+PRFilterViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/wine/!svn/ver/324/app/ios/Wine/QianLvTiaoYi/PRFilterViewController.m
+END
+JSCollectionHeaderView.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/wine/!svn/ver/6/app/ios/Wine/QianLvTiaoYi/JSCollectionHeaderView.h
+END
+JSAddressEditLabelCell.m
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/wine/!svn/ver/99/app/ios/Wine/QianLvTiaoYi/JSAddressEditLabelCell.m
+END
+JSRechargeTVC.m
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/wine/!svn/ver/355/app/ios/Wine/QianLvTiaoYi/JSRechargeTVC.m
+END
+JSUPAlertView.xib
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/wine/!svn/ver/271/app/ios/Wine/QianLvTiaoYi/JSUPAlertView.xib
+END
+JSCollectionHeaderView.m
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/wine/!svn/ver/6/app/ios/Wine/QianLvTiaoYi/JSCollectionHeaderView.m
+END
+JSGroupActView.xib
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/wine/!svn/ver/453/app/ios/Wine/QianLvTiaoYi/JSGroupActView.xib
+END
+JSCommentCenterTV.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/wine/!svn/ver/66/app/ios/Wine/QianLvTiaoYi/JSCommentCenterTV.h
+END
+Category.storyboard
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/wine/!svn/ver/615/app/ios/Wine/QianLvTiaoYi/Category.storyboard
+END
+JSPayStyleMoneyCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/wine/!svn/ver/6/app/ios/Wine/QianLvTiaoYi/JSPayStyleMoneyCell.h
+END
+GetCommentsData.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/wine/!svn/ver/99/app/ios/Wine/QianLvTiaoYi/GetCommentsData.h
+END
+JDIQualityCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/wine/!svn/ver/328/app/ios/Wine/QianLvTiaoYi/JDIQualityCell.h
+END
+JSCommentCenterTV.m
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/wine/!svn/ver/621/app/ios/Wine/QianLvTiaoYi/JSCommentCenterTV.m
+END
+GetStoreFavData.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/wine/!svn/ver/110/app/ios/Wine/QianLvTiaoYi/GetStoreFavData.h
+END
+JSPayStyleMoneyCell.m
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/wine/!svn/ver/6/app/ios/Wine/QianLvTiaoYi/JSPayStyleMoneyCell.m
+END
+GetOSCountData.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/wine/!svn/ver/291/app/ios/Wine/QianLvTiaoYi/GetOSCountData.h
+END
+GetCommentsData.m
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/wine/!svn/ver/318/app/ios/Wine/QianLvTiaoYi/GetCommentsData.m
+END
+JDIQualityCell.m
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/wine/!svn/ver/295/app/ios/Wine/QianLvTiaoYi/JDIQualityCell.m
+END
+WMCalculatePrice.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/wine/!svn/ver/326/app/ios/Wine/QianLvTiaoYi/WMCalculatePrice.h
+END
+Address.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/wine/!svn/ver/292/app/ios/Wine/QianLvTiaoYi/Address.h
+END
+GetStoreFavData.m
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/wine/!svn/ver/110/app/ios/Wine/QianLvTiaoYi/GetStoreFavData.m
+END
+GetOSCountData.m
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/wine/!svn/ver/291/app/ios/Wine/QianLvTiaoYi/GetOSCountData.m
+END
+WMCalculatePrice.m
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/wine/!svn/ver/325/app/ios/Wine/QianLvTiaoYi/WMCalculatePrice.m
+END
+JSLIOrderNoCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/wine/!svn/ver/293/app/ios/Wine/QianLvTiaoYi/JSLIOrderNoCell.h
+END
+Address.m
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/wine/!svn/ver/6/app/ios/Wine/QianLvTiaoYi/Address.m
+END
+JSRedPackGoodsVC.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/wine/!svn/ver/167/app/ios/Wine/QianLvTiaoYi/JSRedPackGoodsVC.h
+END
+JSIdeaListCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/wine/!svn/ver/565/app/ios/Wine/QianLvTiaoYi/JSIdeaListCell.h
+END
+JSLIOrderNoCell.m
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/wine/!svn/ver/293/app/ios/Wine/QianLvTiaoYi/JSLIOrderNoCell.m
+END
+JSRedPackGoodsVC.m
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/wine/!svn/ver/167/app/ios/Wine/QianLvTiaoYi/JSRedPackGoodsVC.m
+END
+PRSliderCollectionCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/wine/!svn/ver/6/app/ios/Wine/QianLvTiaoYi/PRSliderCollectionCell.h
+END
+JSIdeaListCell.m
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/wine/!svn/ver/554/app/ios/Wine/QianLvTiaoYi/JSIdeaListCell.m
+END
+JSIntegralNoImageCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/wine/!svn/ver/355/app/ios/Wine/QianLvTiaoYi/JSIntegralNoImageCell.h
+END
+PRSliderCollectionCell.m
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/wine/!svn/ver/6/app/ios/Wine/QianLvTiaoYi/PRSliderCollectionCell.m
+END
+JSBackOrderTVC.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/wine/!svn/ver/329/app/ios/Wine/QianLvTiaoYi/JSBackOrderTVC.h
+END
+JSIntegralNoImageCell.m
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/wine/!svn/ver/355/app/ios/Wine/QianLvTiaoYi/JSIntegralNoImageCell.m
+END
+JSStoreReusableView.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/wine/!svn/ver/253/app/ios/Wine/QianLvTiaoYi/JSStoreReusableView.h
+END
+JSActivityRedView.xib
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/wine/!svn/ver/616/app/ios/Wine/QianLvTiaoYi/JSActivityRedView.xib
+END
+JSBackOrderTVC.m
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/wine/!svn/ver/621/app/ios/Wine/QianLvTiaoYi/JSBackOrderTVC.m
+END
+lqb.png
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/wine/!svn/ver/115/app/ios/Wine/QianLvTiaoYi/lqb.png
+END
+JSFavoriteCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/wine/!svn/ver/6/app/ios/Wine/QianLvTiaoYi/JSFavoriteCell.h
+END
+JSStoreReusableView.m
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/wine/!svn/ver/253/app/ios/Wine/QianLvTiaoYi/JSStoreReusableView.m
+END
+JSODSendMessageCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/wine/!svn/ver/144/app/ios/Wine/QianLvTiaoYi/JSODSendMessageCell.h
+END
+GetCommitOrderData.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/wine/!svn/ver/6/app/ios/Wine/QianLvTiaoYi/GetCommitOrderData.h
+END
+JSFavoriteCell.m
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/wine/!svn/ver/6/app/ios/Wine/QianLvTiaoYi/JSFavoriteCell.m
+END
+JSODSendMessageCell.m
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/wine/!svn/ver/144/app/ios/Wine/QianLvTiaoYi/JSODSendMessageCell.m
+END
+GetCommitOrderData.m
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/wine/!svn/ver/6/app/ios/Wine/QianLvTiaoYi/GetCommitOrderData.m
+END
+PRFilterListCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/wine/!svn/ver/8/app/ios/Wine/QianLvTiaoYi/PRFilterListCell.h
+END
+JSCrowdfundView.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/wine/!svn/ver/514/app/ios/Wine/QianLvTiaoYi/JSCrowdfundView.h
+END
+JSStoreFavoriteView.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/wine/!svn/ver/99/app/ios/Wine/QianLvTiaoYi/JSStoreFavoriteView.h
+END
+JSRechargeMoneyCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/wine/!svn/ver/337/app/ios/Wine/QianLvTiaoYi/JSRechargeMoneyCell.h
+END
+JSNumerousPlanCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/wine/!svn/ver/514/app/ios/Wine/QianLvTiaoYi/JSNumerousPlanCell.h
+END
+JSSendCommentTabVCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/wine/!svn/ver/139/app/ios/Wine/QianLvTiaoYi/JSSendCommentTabVCell.h
+END
+PRFilterListCell.m
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/wine/!svn/ver/8/app/ios/Wine/QianLvTiaoYi/PRFilterListCell.m
+END
+JSCrowdfundView.m
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/wine/!svn/ver/514/app/ios/Wine/QianLvTiaoYi/JSCrowdfundView.m
+END
+JSCommitTotalCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/wine/!svn/ver/326/app/ios/Wine/QianLvTiaoYi/JSCommitTotalCell.h
+END
+JSStoreFavoriteView.m
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/wine/!svn/ver/621/app/ios/Wine/QianLvTiaoYi/JSStoreFavoriteView.m
+END
+JSRechargeMoneyCell.m
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/wine/!svn/ver/337/app/ios/Wine/QianLvTiaoYi/JSRechargeMoneyCell.m
+END
+JSNumerousPlanCell.m
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/wine/!svn/ver/514/app/ios/Wine/QianLvTiaoYi/JSNumerousPlanCell.m
+END
+JSSendCommentTabVCell.m
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/wine/!svn/ver/139/app/ios/Wine/QianLvTiaoYi/JSSendCommentTabVCell.m
+END
+JSGoodsDetailNameCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/wine/!svn/ver/453/app/ios/Wine/QianLvTiaoYi/JSGoodsDetailNameCell.h
+END
+JSCommitTotalCell.m
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/wine/!svn/ver/6/app/ios/Wine/QianLvTiaoYi/JSCommitTotalCell.m
+END
+JSSetImgQualityCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/wine/!svn/ver/328/app/ios/Wine/QianLvTiaoYi/JSSetImgQualityCell.h
+END
+Info.plist
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/wine/!svn/ver/613/app/ios/Wine/QianLvTiaoYi/Info.plist
+END
+JSGoodsDetailNameCell.m
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/wine/!svn/ver/6/app/ios/Wine/QianLvTiaoYi/JSGoodsDetailNameCell.m
+END
+JSCMPrivilegeCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/wine/!svn/ver/280/app/ios/Wine/QianLvTiaoYi/JSCMPrivilegeCell.h
+END
+JSSetImgQualityCell.m
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/wine/!svn/ver/328/app/ios/Wine/QianLvTiaoYi/JSSetImgQualityCell.m
+END
+JSGDActivityCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/wine/!svn/ver/324/app/ios/Wine/QianLvTiaoYi/JSGDActivityCell.h
+END
+JSADLabelView.xib
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/wine/!svn/ver/566/app/ios/Wine/QianLvTiaoYi/JSADLabelView.xib
+END
+WMFootmarkModel.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/wine/!svn/ver/110/app/ios/Wine/QianLvTiaoYi/WMFootmarkModel.h
+END
+JSCMPrivilegeCell.m
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/wine/!svn/ver/280/app/ios/Wine/QianLvTiaoYi/JSCMPrivilegeCell.m
+END
+JSToosButtonCell.xib
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/wine/!svn/ver/344/app/ios/Wine/QianLvTiaoYi/JSToosButtonCell.xib
+END
+xuxian.png
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/wine/!svn/ver/189/app/ios/Wine/QianLvTiaoYi/xuxian.png
+END
+JSGDActivityCell.m
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/wine/!svn/ver/307/app/ios/Wine/QianLvTiaoYi/JSGDActivityCell.m
+END
+JSFetchMoneyTVC.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/wine/!svn/ver/337/app/ios/Wine/QianLvTiaoYi/JSFetchMoneyTVC.h
+END
+JSOrderStatusCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/wine/!svn/ver/140/app/ios/Wine/QianLvTiaoYi/JSOrderStatusCell.h
+END
+WMFootmarkModel.m
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/wine/!svn/ver/110/app/ios/Wine/QianLvTiaoYi/WMFootmarkModel.m
+END
+JSFetchMoneyTVC.m
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/wine/!svn/ver/338/app/ios/Wine/QianLvTiaoYi/JSFetchMoneyTVC.m
+END
+WMPoints.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/wine/!svn/ver/355/app/ios/Wine/QianLvTiaoYi/WMPoints.h
+END
+JSOrderStatusCell.m
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/wine/!svn/ver/6/app/ios/Wine/QianLvTiaoYi/JSOrderStatusCell.m
+END
+JSHomePageADCell.xib
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/wine/!svn/ver/111/app/ios/Wine/QianLvTiaoYi/JSHomePageADCell.xib
+END
+JSStoreFavFliterTool.xib
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/wine/!svn/ver/329/app/ios/Wine/QianLvTiaoYi/JSStoreFavFliterTool.xib
+END
+WMPoints.m
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/wine/!svn/ver/613/app/ios/Wine/QianLvTiaoYi/WMPoints.m
+END
+WMActivity.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/wine/!svn/ver/257/app/ios/Wine/QianLvTiaoYi/WMActivity.h
+END
+JSCategoryVC.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/wine/!svn/ver/6/app/ios/Wine/QianLvTiaoYi/JSCategoryVC.h
+END
+JSCancleOrderView.xib
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/wine/!svn/ver/495/app/ios/Wine/QianLvTiaoYi/JSCancleOrderView.xib
+END
+WMActivity.m
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/wine/!svn/ver/257/app/ios/Wine/QianLvTiaoYi/WMActivity.m
+END
+JSOrderDetailTVC.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/wine/!svn/ver/149/app/ios/Wine/QianLvTiaoYi/JSOrderDetailTVC.h
+END
+JSCategoryVC.m
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/wine/!svn/ver/551/app/ios/Wine/QianLvTiaoYi/JSCategoryVC.m
+END
+JSCommitAmountCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/wine/!svn/ver/6/app/ios/Wine/QianLvTiaoYi/JSCommitAmountCell.h
+END
+JSOrderDetailTVC.m
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/wine/!svn/ver/621/app/ios/Wine/QianLvTiaoYi/JSOrderDetailTVC.m
+END
+JSCommitAmountCell.m
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/wine/!svn/ver/6/app/ios/Wine/QianLvTiaoYi/JSCommitAmountCell.m
+END
+JSODPayMoneyCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/wine/!svn/ver/144/app/ios/Wine/QianLvTiaoYi/JSODPayMoneyCell.h
+END
+WMMallShop.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/wine/!svn/ver/217/app/ios/Wine/QianLvTiaoYi/WMMallShop.h
+END
+GetCrowdfundingData.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/wine/!svn/ver/466/app/ios/Wine/QianLvTiaoYi/GetCrowdfundingData.h
+END
+ParentOrder.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/wine/!svn/ver/620/app/ios/Wine/QianLvTiaoYi/ParentOrder.h
+END
+JSODPayMoneyCell.m
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/wine/!svn/ver/144/app/ios/Wine/QianLvTiaoYi/JSODPayMoneyCell.m
+END
+WMMallShop.m
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/wine/!svn/ver/212/app/ios/Wine/QianLvTiaoYi/WMMallShop.m
+END
+GetCrowdfundingData.m
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/wine/!svn/ver/466/app/ios/Wine/QianLvTiaoYi/GetCrowdfundingData.m
+END
+ParentOrder.m
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/wine/!svn/ver/6/app/ios/Wine/QianLvTiaoYi/ParentOrder.m
+END
+JSLIDataCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/wine/!svn/ver/293/app/ios/Wine/QianLvTiaoYi/JSLIDataCell.h
+END
+JSGoodsDetaillDesc5Cell.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/wine/!svn/ver/9/app/ios/Wine/QianLvTiaoYi/JSGoodsDetaillDesc5Cell.h
+END
+JSGoodsListCV.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/wine/!svn/ver/9/app/ios/Wine/QianLvTiaoYi/JSGoodsListCV.h
+END
+GetCreatedOrderData.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/wine/!svn/ver/6/app/ios/Wine/QianLvTiaoYi/GetCreatedOrderData.h
+END
+GoodsDetail.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/wine/!svn/ver/304/app/ios/Wine/QianLvTiaoYi/GoodsDetail.h
+END
+JSLIDataCell.m
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/wine/!svn/ver/293/app/ios/Wine/QianLvTiaoYi/JSLIDataCell.m
+END
+JSGoodsDetaillDesc5Cell.m
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/wine/!svn/ver/270/app/ios/Wine/QianLvTiaoYi/JSGoodsDetaillDesc5Cell.m
+END
+GetOrderListData.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/wine/!svn/ver/6/app/ios/Wine/QianLvTiaoYi/GetOrderListData.h
+END
+JSGoodsListCV.m
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/wine/!svn/ver/530/app/ios/Wine/QianLvTiaoYi/JSGoodsListCV.m
+END
+GetCreatedOrderData.m
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/wine/!svn/ver/127/app/ios/Wine/QianLvTiaoYi/GetCreatedOrderData.m
+END
+GoodsDetail.m
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/wine/!svn/ver/304/app/ios/Wine/QianLvTiaoYi/GoodsDetail.m
+END
+JSRedPacketTVCell.xib
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/wine/!svn/ver/308/app/ios/Wine/QianLvTiaoYi/JSRedPacketTVCell.xib
+END
+JSNewGoodsCVCell.xib
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/wine/!svn/ver/304/app/ios/Wine/QianLvTiaoYi/JSNewGoodsCVCell.xib
+END
+GetOrderListData.m
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/wine/!svn/ver/6/app/ios/Wine/QianLvTiaoYi/GetOrderListData.m
+END
+JSStoreFavCollRV.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/wine/!svn/ver/217/app/ios/Wine/QianLvTiaoYi/JSStoreFavCollRV.h
+END
+JSStoreFavCollRV.m
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/wine/!svn/ver/344/app/ios/Wine/QianLvTiaoYi/JSStoreFavCollRV.m
+END
+JSCrowdCountCell.xib
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/wine/!svn/ver/554/app/ios/Wine/QianLvTiaoYi/JSCrowdCountCell.xib
+END
+JSGuessLikeCV.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/wine/!svn/ver/149/app/ios/Wine/QianLvTiaoYi/JSGuessLikeCV.h
+END
+JSGuessLikeCV.m
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/wine/!svn/ver/231/app/ios/Wine/QianLvTiaoYi/JSGuessLikeCV.m
+END
+JSFootprintTVCell.xib
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/wine/!svn/ver/538/app/ios/Wine/QianLvTiaoYi/JSFootprintTVCell.xib
+END
+JSGoodsFavoriteVC.xib
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/wine/!svn/ver/36/app/ios/Wine/QianLvTiaoYi/JSGoodsFavoriteVC.xib
+END
+JSShoppingCartCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/wine/!svn/ver/336/app/ios/Wine/QianLvTiaoYi/JSShoppingCartCell.h
+END
+JSGoodsListCell.xib
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/wine/!svn/ver/304/app/ios/Wine/QianLvTiaoYi/JSGoodsListCell.xib
+END
+GetShopGoodsData.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/wine/!svn/ver/212/app/ios/Wine/QianLvTiaoYi/GetShopGoodsData.h
+END
+JSRechargeYuECell.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/wine/!svn/ver/337/app/ios/Wine/QianLvTiaoYi/JSRechargeYuECell.h
+END
+JSGoodsFavoriteVC.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/wine/!svn/ver/36/app/ios/Wine/QianLvTiaoYi/JSGoodsFavoriteVC.h
+END
+DWTagList.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/wine/!svn/ver/7/app/ios/Wine/QianLvTiaoYi/DWTagList.h
+END
+JSShoppingCartCell.m
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/wine/!svn/ver/6/app/ios/Wine/QianLvTiaoYi/JSShoppingCartCell.m
+END
+GetShopGoodsData.m
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/wine/!svn/ver/212/app/ios/Wine/QianLvTiaoYi/GetShopGoodsData.m
+END
+JSRechargeYuECell.m
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/wine/!svn/ver/337/app/ios/Wine/QianLvTiaoYi/JSRechargeYuECell.m
+END
+JSImageQualityTVC.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/wine/!svn/ver/295/app/ios/Wine/QianLvTiaoYi/JSImageQualityTVC.h
+END
+JSEvaluateTitleCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/wine/!svn/ver/337/app/ios/Wine/QianLvTiaoYi/JSEvaluateTitleCell.h
+END
+GetResetPrice.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/wine/!svn/ver/326/app/ios/Wine/QianLvTiaoYi/GetResetPrice.h
+END
+JSGoodsFavoriteVC.m
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/wine/!svn/ver/36/app/ios/Wine/QianLvTiaoYi/JSGoodsFavoriteVC.m
+END
+DWTagList.m
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/wine/!svn/ver/7/app/ios/Wine/QianLvTiaoYi/DWTagList.m
+END
+GetCategoryData.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/wine/!svn/ver/6/app/ios/Wine/QianLvTiaoYi/GetCategoryData.h
+END
+JSImageQualityTVC.m
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/wine/!svn/ver/621/app/ios/Wine/QianLvTiaoYi/JSImageQualityTVC.m
+END
+JSEvaluateTitleCell.m
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/wine/!svn/ver/6/app/ios/Wine/QianLvTiaoYi/JSEvaluateTitleCell.m
+END
+GetResetPrice.m
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/wine/!svn/ver/326/app/ios/Wine/QianLvTiaoYi/GetResetPrice.m
+END
+GetFootmarkData.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/wine/!svn/ver/110/app/ios/Wine/QianLvTiaoYi/GetFootmarkData.h
+END
+GetCategoryData.m
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/wine/!svn/ver/7/app/ios/Wine/QianLvTiaoYi/GetCategoryData.m
+END
+PRAlipayManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/wine/!svn/ver/350/app/ios/Wine/QianLvTiaoYi/PRAlipayManager.h
+END
+PRFilterListCell.xib
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/wine/!svn/ver/248/app/ios/Wine/QianLvTiaoYi/PRFilterListCell.xib
+END
+UINavigationBar+Awesome.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/wine/!svn/ver/6/app/ios/Wine/QianLvTiaoYi/UINavigationBar+Awesome.h
+END
+JSCrowdfundView.xib
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/wine/!svn/ver/530/app/ios/Wine/QianLvTiaoYi/JSCrowdfundView.xib
+END
+JSActivityRedView.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/wine/!svn/ver/453/app/ios/Wine/QianLvTiaoYi/JSActivityRedView.h
+END
+GetFootmarkData.m
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/wine/!svn/ver/110/app/ios/Wine/QianLvTiaoYi/GetFootmarkData.m
+END
+PRAlipayManager.m
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/wine/!svn/ver/366/app/ios/Wine/QianLvTiaoYi/PRAlipayManager.m
+END
+JSODPriceCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/wine/!svn/ver/144/app/ios/Wine/QianLvTiaoYi/JSODPriceCell.h
+END
+UINavigationBar+Awesome.m
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/wine/!svn/ver/6/app/ios/Wine/QianLvTiaoYi/UINavigationBar+Awesome.m
+END
+JSActivityRedView.m
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/wine/!svn/ver/538/app/ios/Wine/QianLvTiaoYi/JSActivityRedView.m
+END
+HomePage.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/wine/!svn/ver/324/app/ios/Wine/QianLvTiaoYi/HomePage.h
+END
+JSCategoryLeftCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/wine/!svn/ver/6/app/ios/Wine/QianLvTiaoYi/JSCategoryLeftCell.h
+END
+JSCAGoodsItem.xib
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/wine/!svn/ver/336/app/ios/Wine/QianLvTiaoYi/JSCAGoodsItem.xib
+END
+JSODPriceCell.m
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/wine/!svn/ver/144/app/ios/Wine/QianLvTiaoYi/JSODPriceCell.m
+END
+JSGoodsDetailDescCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/wine/!svn/ver/6/app/ios/Wine/QianLvTiaoYi/JSGoodsDetailDescCell.h
+END
+HomePage.m
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/wine/!svn/ver/257/app/ios/Wine/QianLvTiaoYi/HomePage.m
+END
+JSCategoryLeftCell.m
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/wine/!svn/ver/6/app/ios/Wine/QianLvTiaoYi/JSCategoryLeftCell.m
+END
+JSGoodsDetailDescCell.m
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/wine/!svn/ver/6/app/ios/Wine/QianLvTiaoYi/JSGoodsDetailDescCell.m
+END
+GetShopListData.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/wine/!svn/ver/217/app/ios/Wine/QianLvTiaoYi/GetShopListData.h
+END
+JSPayStyleConsumeCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/wine/!svn/ver/245/app/ios/Wine/QianLvTiaoYi/JSPayStyleConsumeCell.h
+END
+JSOrderDetailAddressCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/wine/!svn/ver/144/app/ios/Wine/QianLvTiaoYi/JSOrderDetailAddressCell.h
+END
+JSGoodsFavoriteView.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/wine/!svn/ver/150/app/ios/Wine/QianLvTiaoYi/JSGoodsFavoriteView.h
+END
+JSEvaluateCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/wine/!svn/ver/332/app/ios/Wine/QianLvTiaoYi/JSEvaluateCell.h
+END
+JSTagViewCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/wine/!svn/ver/7/app/ios/Wine/QianLvTiaoYi/JSTagViewCell.h
+END
+GetShopListData.m
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/wine/!svn/ver/217/app/ios/Wine/QianLvTiaoYi/GetShopListData.m
+END
+IndexImg.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/wine/!svn/ver/9/app/ios/Wine/QianLvTiaoYi/IndexImg.h
+END
+JSPayStyleConsumeCell.m
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/wine/!svn/ver/245/app/ios/Wine/QianLvTiaoYi/JSPayStyleConsumeCell.m
+END
+JSOrderDetailAddressCell.m
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/wine/!svn/ver/6/app/ios/Wine/QianLvTiaoYi/JSOrderDetailAddressCell.m
+END
+JSGoodsFavoriteView.m
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/wine/!svn/ver/621/app/ios/Wine/QianLvTiaoYi/JSGoodsFavoriteView.m
+END
+JSGoodsDetailGroupCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/wine/!svn/ver/281/app/ios/Wine/QianLvTiaoYi/JSGoodsDetailGroupCell.h
+END
+JSEvaluateCell.m
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/wine/!svn/ver/6/app/ios/Wine/QianLvTiaoYi/JSEvaluateCell.m
+END
+JSTagViewCell.m
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/wine/!svn/ver/7/app/ios/Wine/QianLvTiaoYi/JSTagViewCell.m
+END
+StoreDetailVC.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/wine/!svn/ver/344/app/ios/Wine/QianLvTiaoYi/StoreDetailVC.h
+END
+IndexImg.m
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/wine/!svn/ver/9/app/ios/Wine/QianLvTiaoYi/IndexImg.m
+END
+GetCalculatePriceData.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/wine/!svn/ver/325/app/ios/Wine/QianLvTiaoYi/GetCalculatePriceData.h
+END
+JSSCRecommentCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/wine/!svn/ver/196/app/ios/Wine/QianLvTiaoYi/JSSCRecommentCell.h
+END
+Points.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/wine/!svn/ver/6/app/ios/Wine/QianLvTiaoYi/Points.h
+END
+JSGoodsDetailGroupCell.m
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/wine/!svn/ver/281/app/ios/Wine/QianLvTiaoYi/JSGoodsDetailGroupCell.m
+END
+StoreDetailVC.m
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/wine/!svn/ver/621/app/ios/Wine/QianLvTiaoYi/StoreDetailVC.m
+END
+JSRedPackGoodsTVC.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/wine/!svn/ver/191/app/ios/Wine/QianLvTiaoYi/JSRedPackGoodsTVC.h
+END
+GetCalculatePriceData.m
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/wine/!svn/ver/325/app/ios/Wine/QianLvTiaoYi/GetCalculatePriceData.m
+END
+JSSCRecommentCell.m
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/wine/!svn/ver/196/app/ios/Wine/QianLvTiaoYi/JSSCRecommentCell.m
+END
+Points.m
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/wine/!svn/ver/6/app/ios/Wine/QianLvTiaoYi/Points.m
+END
+libssl.a
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/wine/!svn/ver/219/app/ios/Wine/QianLvTiaoYi/libssl.a
+END
+PRSliderHeaderView.xib
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/wine/!svn/ver/551/app/ios/Wine/QianLvTiaoYi/PRSliderHeaderView.xib
+END
+JSRedPackGoodsTVC.m
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/wine/!svn/ver/551/app/ios/Wine/QianLvTiaoYi/JSRedPackGoodsTVC.m
+END
+GetConsumeDetailData.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/wine/!svn/ver/245/app/ios/Wine/QianLvTiaoYi/GetConsumeDetailData.h
+END
+GetConsumeDetailData.m
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/wine/!svn/ver/245/app/ios/Wine/QianLvTiaoYi/GetConsumeDetailData.m
+END
+JSSearchVC.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/wine/!svn/ver/6/app/ios/Wine/QianLvTiaoYi/JSSearchVC.h
+END
+JSSearchVC.m
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/wine/!svn/ver/393/app/ios/Wine/QianLvTiaoYi/JSSearchVC.m
+END
+home_TOP.jpg
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/wine/!svn/ver/6/app/ios/Wine/QianLvTiaoYi/home_TOP.jpg
+END
+JSGoodsFavFliterVC.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/wine/!svn/ver/54/app/ios/Wine/QianLvTiaoYi/JSGoodsFavFliterVC.h
+END
+JSPickerView.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/wine/!svn/ver/303/app/ios/Wine/QianLvTiaoYi/JSPickerView.h
+END
+WMHelpPay.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/wine/!svn/ver/123/app/ios/Wine/QianLvTiaoYi/WMHelpPay.h
+END
+JSGoodsFavFliterVC.m
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/wine/!svn/ver/245/app/ios/Wine/QianLvTiaoYi/JSGoodsFavFliterVC.m
+END
+JSSelectCommentTVCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/wine/!svn/ver/160/app/ios/Wine/QianLvTiaoYi/JSSelectCommentTVCell.h
+END
+JSPickerView.m
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/wine/!svn/ver/621/app/ios/Wine/QianLvTiaoYi/JSPickerView.m
+END
+JSCMShopPrivilegeTVC.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/wine/!svn/ver/280/app/ios/Wine/QianLvTiaoYi/JSCMShopPrivilegeTVC.h
+END
+JSXXRechargeTVC.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/wine/!svn/ver/350/app/ios/Wine/QianLvTiaoYi/JSXXRechargeTVC.h
+END
+WMHelpPay.m
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/wine/!svn/ver/123/app/ios/Wine/QianLvTiaoYi/WMHelpPay.m
+END
+JSSelectCommentTVCell.m
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/wine/!svn/ver/160/app/ios/Wine/QianLvTiaoYi/JSSelectCommentTVCell.m
+END
+JSCMShopPrivilegeTVC.m
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/wine/!svn/ver/318/app/ios/Wine/QianLvTiaoYi/JSCMShopPrivilegeTVC.m
+END
+JSStoreFavoriteView.xib
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/wine/!svn/ver/304/app/ios/Wine/QianLvTiaoYi/JSStoreFavoriteView.xib
+END
+JSXXRechargeTVC.m
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/wine/!svn/ver/350/app/ios/Wine/QianLvTiaoYi/JSXXRechargeTVC.m
+END
+JSGoodsFavCollRV.xib
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/wine/!svn/ver/149/app/ios/Wine/QianLvTiaoYi/JSGoodsFavCollRV.xib
+END
+JSSearchButtonBar.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/wine/!svn/ver/160/app/ios/Wine/QianLvTiaoYi/JSSearchButtonBar.h
+END
+JSGoodsDetaillDesc3Cell.xib
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/wine/!svn/ver/318/app/ios/Wine/QianLvTiaoYi/JSGoodsDetaillDesc3Cell.xib
+END
+JSHomePageFooterView.xib
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/wine/!svn/ver/111/app/ios/Wine/QianLvTiaoYi/JSHomePageFooterView.xib
+END
+JSHelpPayVC.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/wine/!svn/ver/123/app/ios/Wine/QianLvTiaoYi/JSHelpPayVC.h
+END
+JSGuessLikeCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/wine/!svn/ver/6/app/ios/Wine/QianLvTiaoYi/JSGuessLikeCell.h
+END
+JSSearchButtonBar.m
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/wine/!svn/ver/208/app/ios/Wine/QianLvTiaoYi/JSSearchButtonBar.m
+END
+JSOrderBarCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/wine/!svn/ver/139/app/ios/Wine/QianLvTiaoYi/JSOrderBarCell.h
+END
+JSHelpPayVC.m
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/wine/!svn/ver/621/app/ios/Wine/QianLvTiaoYi/JSHelpPayVC.m
+END
+JSGuessLikeCell.m
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/wine/!svn/ver/620/app/ios/Wine/QianLvTiaoYi/JSGuessLikeCell.m
+END
+JSGDActivityCell.xib
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/wine/!svn/ver/324/app/ios/Wine/QianLvTiaoYi/JSGDActivityCell.xib
+END
+JSOrderBarCell.m
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/wine/!svn/ver/139/app/ios/Wine/QianLvTiaoYi/JSOrderBarCell.m
+END
+HotSearchs.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/wine/!svn/ver/7/app/ios/Wine/QianLvTiaoYi/HotSearchs.h
+END
+JSSetTVC.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/wine/!svn/ver/31/app/ios/Wine/QianLvTiaoYi/JSSetTVC.h
+END
+GetWeixinPayData.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/wine/!svn/ver/6/app/ios/Wine/QianLvTiaoYi/GetWeixinPayData.h
+END
+HotSearchs.m
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/wine/!svn/ver/7/app/ios/Wine/QianLvTiaoYi/HotSearchs.m
+END
+JSGoodsDetailTimedCell.xib
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/wine/!svn/ver/294/app/ios/Wine/QianLvTiaoYi/JSGoodsDetailTimedCell.xib
+END
+JSCommitOrderVC.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/wine/!svn/ver/538/app/ios/Wine/QianLvTiaoYi/JSCommitOrderVC.h
+END
+JSSetTVC.m
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/wine/!svn/ver/621/app/ios/Wine/QianLvTiaoYi/JSSetTVC.m
+END
+shoes.jpg
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/wine/!svn/ver/6/app/ios/Wine/QianLvTiaoYi/shoes.jpg
+END
+JSNewGoodsVC.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/wine/!svn/ver/177/app/ios/Wine/QianLvTiaoYi/JSNewGoodsVC.h
+END
+GetWeixinPayData.m
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/wine/!svn/ver/6/app/ios/Wine/QianLvTiaoYi/GetWeixinPayData.m
+END
+JSSCEmptyView.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/wine/!svn/ver/200/app/ios/Wine/QianLvTiaoYi/JSSCEmptyView.h
+END
+JSCrowdSpecView.xib
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/wine/!svn/ver/554/app/ios/Wine/QianLvTiaoYi/JSCrowdSpecView.xib
+END
+JSUserDetailTabVC.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/wine/!svn/ver/73/app/ios/Wine/QianLvTiaoYi/JSUserDetailTabVC.h
+END
+JSCommitOrderVC.m
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/wine/!svn/ver/621/app/ios/Wine/QianLvTiaoYi/JSCommitOrderVC.m
+END
+JSNewGoodsVC.m
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/wine/!svn/ver/566/app/ios/Wine/QianLvTiaoYi/JSNewGoodsVC.m
+END
+JSSCEmptyView.m
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/wine/!svn/ver/200/app/ios/Wine/QianLvTiaoYi/JSSCEmptyView.m
+END
+JSCrowdSpecView.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/wine/!svn/ver/554/app/ios/Wine/QianLvTiaoYi/JSCrowdSpecView.h
+END
+JSCrowdInfoCell.xib
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/wine/!svn/ver/616/app/ios/Wine/QianLvTiaoYi/JSCrowdInfoCell.xib
+END
+JSUserDetailTabVC.m
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/wine/!svn/ver/338/app/ios/Wine/QianLvTiaoYi/JSUserDetailTabVC.m
+END
+JSCrowdSpecView.m
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/wine/!svn/ver/554/app/ios/Wine/QianLvTiaoYi/JSCrowdSpecView.m
+END
+JSShoppingCartVC.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/wine/!svn/ver/538/app/ios/Wine/QianLvTiaoYi/JSShoppingCartVC.h
+END
+CategoryInfo.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/wine/!svn/ver/231/app/ios/Wine/QianLvTiaoYi/CategoryInfo.h
+END
+WMNewGoods.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/wine/!svn/ver/177/app/ios/Wine/QianLvTiaoYi/WMNewGoods.h
+END
+JSCommitMessageCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/wine/!svn/ver/6/app/ios/Wine/QianLvTiaoYi/JSCommitMessageCell.h
+END
+JSShoppingCartVC.m
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/wine/!svn/ver/621/app/ios/Wine/QianLvTiaoYi/JSShoppingCartVC.m
+END
+CategoryInfo.m
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/wine/!svn/ver/231/app/ios/Wine/QianLvTiaoYi/CategoryInfo.m
+END
+WMNewGoods.m
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/wine/!svn/ver/177/app/ios/Wine/QianLvTiaoYi/WMNewGoods.m
+END
+JSCommitMessageCell.m
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/wine/!svn/ver/6/app/ios/Wine/QianLvTiaoYi/JSCommitMessageCell.m
+END
+JSRushShoppingTVC.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/wine/!svn/ver/178/app/ios/Wine/QianLvTiaoYi/JSRushShoppingTVC.h
+END
+JSFavoriteVC.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/wine/!svn/ver/36/app/ios/Wine/QianLvTiaoYi/JSFavoriteVC.h
+END
+JSChooseBackGoodsTVC.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/wine/!svn/ver/329/app/ios/Wine/QianLvTiaoYi/JSChooseBackGoodsTVC.h
+END
+Member.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/wine/!svn/ver/530/app/ios/Wine/QianLvTiaoYi/Member.h
+END
+JSRushShoppingTVC.m
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/wine/!svn/ver/616/app/ios/Wine/QianLvTiaoYi/JSRushShoppingTVC.m
+END
+JSFavoriteVC.m
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/wine/!svn/ver/621/app/ios/Wine/QianLvTiaoYi/JSFavoriteVC.m
+END
+JSCollectionReView.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/wine/!svn/ver/8/app/ios/Wine/QianLvTiaoYi/JSCollectionReView.h
+END
+PRWeiXinPayManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/wine/!svn/ver/350/app/ios/Wine/QianLvTiaoYi/PRWeiXinPayManager.h
+END
+JSChooseBackGoodsTVC.m
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/wine/!svn/ver/621/app/ios/Wine/QianLvTiaoYi/JSChooseBackGoodsTVC.m
+END
+Member.m
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/wine/!svn/ver/6/app/ios/Wine/QianLvTiaoYi/Member.m
+END
+GoodsImage.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/wine/!svn/ver/118/app/ios/Wine/QianLvTiaoYi/GoodsImage.h
+END
+JSCollectionReView.m
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/wine/!svn/ver/253/app/ios/Wine/QianLvTiaoYi/JSCollectionReView.m
+END
+PRWeiXinPayManager.m
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/wine/!svn/ver/350/app/ios/Wine/QianLvTiaoYi/PRWeiXinPayManager.m
+END
+Product.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/wine/!svn/ver/615/app/ios/Wine/QianLvTiaoYi/Product.h
+END
+JSStoreFavFliterBar.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/wine/!svn/ver/39/app/ios/Wine/QianLvTiaoYi/JSStoreFavFliterBar.h
+END
+GoodsImage.m
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/wine/!svn/ver/6/app/ios/Wine/QianLvTiaoYi/GoodsImage.m
+END
+WMMarketGoods.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/wine/!svn/ver/189/app/ios/Wine/QianLvTiaoYi/WMMarketGoods.h
+END
+WMThreeCount.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/wine/!svn/ver/99/app/ios/Wine/QianLvTiaoYi/WMThreeCount.h
+END
+Product.m
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/wine/!svn/ver/182/app/ios/Wine/QianLvTiaoYi/Product.m
+END
+JSStoreFavFliterBar.m
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/wine/!svn/ver/52/app/ios/Wine/QianLvTiaoYi/JSStoreFavFliterBar.m
+END
+WMMarketGoods.m
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/wine/!svn/ver/189/app/ios/Wine/QianLvTiaoYi/WMMarketGoods.m
+END
+WMThreeCount.m
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/wine/!svn/ver/99/app/ios/Wine/QianLvTiaoYi/WMThreeCount.m
+END
+JSPSMergeNoCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/wine/!svn/ver/247/app/ios/Wine/QianLvTiaoYi/JSPSMergeNoCell.h
+END
+JSGoodsFavoriteView.xib
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/wine/!svn/ver/49/app/ios/Wine/QianLvTiaoYi/JSGoodsFavoriteView.xib
+END
+JSEvaluateCell.xib
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/wine/!svn/ver/565/app/ios/Wine/QianLvTiaoYi/JSEvaluateCell.xib
+END
+WMShopDetail.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/wine/!svn/ver/217/app/ios/Wine/QianLvTiaoYi/WMShopDetail.h
+END
+JSPSMergeNoCell.m
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/wine/!svn/ver/247/app/ios/Wine/QianLvTiaoYi/JSPSMergeNoCell.m
+END
+JSCommitStoreCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/wine/!svn/ver/208/app/ios/Wine/QianLvTiaoYi/JSCommitStoreCell.h
+END
+WMShopDetail.m
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/wine/!svn/ver/217/app/ios/Wine/QianLvTiaoYi/WMShopDetail.m
+END
+JSCorrelationVC.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/wine/!svn/ver/6/app/ios/Wine/QianLvTiaoYi/JSCorrelationVC.h
+END
+JSCommitStoreCell.m
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/wine/!svn/ver/6/app/ios/Wine/QianLvTiaoYi/JSCommitStoreCell.m
+END
+PayStyle.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/wine/!svn/ver/6/app/ios/Wine/QianLvTiaoYi/PayStyle.h
+END
+AppDelegate.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/wine/!svn/ver/615/app/ios/Wine/QianLvTiaoYi/AppDelegate.h
+END
+JSCorrelationVC.m
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/wine/!svn/ver/6/app/ios/Wine/QianLvTiaoYi/JSCorrelationVC.m
+END
+JSGroupActView.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/wine/!svn/ver/453/app/ios/Wine/QianLvTiaoYi/JSGroupActView.h
+END
+JSToosButtonCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/wine/!svn/ver/98/app/ios/Wine/QianLvTiaoYi/JSToosButtonCell.h
+END
+PayStyle.m
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/wine/!svn/ver/286/app/ios/Wine/QianLvTiaoYi/PayStyle.m
+END
+AppDelegate.m
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/wine/!svn/ver/613/app/ios/Wine/QianLvTiaoYi/AppDelegate.m
+END
+JSGroupActView.m
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/wine/!svn/ver/538/app/ios/Wine/QianLvTiaoYi/JSGroupActView.m
+END
+JSToosButtonCell.m
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/wine/!svn/ver/98/app/ios/Wine/QianLvTiaoYi/JSToosButtonCell.m
+END
+PRAddressSliderVC.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/wine/!svn/ver/6/app/ios/Wine/QianLvTiaoYi/PRAddressSliderVC.h
+END
+PRFilterExtensionCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/wine/!svn/ver/8/app/ios/Wine/QianLvTiaoYi/PRFilterExtensionCell.h
+END
+PRTableView.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/wine/!svn/ver/6/app/ios/Wine/QianLvTiaoYi/PRTableView.h
+END
+JSGoodsFavFliterTVCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/wine/!svn/ver/54/app/ios/Wine/QianLvTiaoYi/JSGoodsFavFliterTVCell.h
+END
+JSCAGoodsPopupView.xib
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/wine/!svn/ver/245/app/ios/Wine/QianLvTiaoYi/JSCAGoodsPopupView.xib
+END
+PRAddressSliderVC.m
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/wine/!svn/ver/554/app/ios/Wine/QianLvTiaoYi/PRAddressSliderVC.m
+END
+GetCouponGoodsData.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/wine/!svn/ver/167/app/ios/Wine/QianLvTiaoYi/GetCouponGoodsData.h
+END
+PRFilterExtensionCell.m
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/wine/!svn/ver/52/app/ios/Wine/QianLvTiaoYi/PRFilterExtensionCell.m
+END
+PRTableView.m
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/wine/!svn/ver/6/app/ios/Wine/QianLvTiaoYi/PRTableView.m
+END
+main.m
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/wine/!svn/ver/6/app/ios/Wine/QianLvTiaoYi/main.m
+END
+JSGoodsFavFliterTVCell.m
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/wine/!svn/ver/54/app/ios/Wine/QianLvTiaoYi/JSGoodsFavFliterTVCell.m
+END
+JSOrderListVC.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/wine/!svn/ver/366/app/ios/Wine/QianLvTiaoYi/JSOrderListVC.h
+END
+GetCouponGoodsData.m
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/wine/!svn/ver/167/app/ios/Wine/QianLvTiaoYi/GetCouponGoodsData.m
+END
+JSFilterToolBar.xib
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/wine/!svn/ver/231/app/ios/Wine/QianLvTiaoYi/JSFilterToolBar.xib
+END
+JSOrderListVC.m
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/wine/!svn/ver/621/app/ios/Wine/QianLvTiaoYi/JSOrderListVC.m
+END
+tyd_new.jpg
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/wine/!svn/ver/6/app/ios/Wine/QianLvTiaoYi/tyd_new.jpg
+END
+JSCategoryCVCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/wine/!svn/ver/6/app/ios/Wine/QianLvTiaoYi/JSCategoryCVCell.h
+END
+PRAlertManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/wine/!svn/ver/6/app/ios/Wine/QianLvTiaoYi/PRAlertManager.h
+END
+JSFilterBar.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/wine/!svn/ver/231/app/ios/Wine/QianLvTiaoYi/JSFilterBar.h
+END
+Area.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/wine/!svn/ver/6/app/ios/Wine/QianLvTiaoYi/Area.h
+END
+JSCategoryCVCell.m
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/wine/!svn/ver/6/app/ios/Wine/QianLvTiaoYi/JSCategoryCVCell.m
+END
+PRAlertManager.m
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/wine/!svn/ver/6/app/ios/Wine/QianLvTiaoYi/PRAlertManager.m
+END
+GetProductData.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/wine/!svn/ver/6/app/ios/Wine/QianLvTiaoYi/GetProductData.h
+END
+SubModel.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/wine/!svn/ver/6/app/ios/Wine/QianLvTiaoYi/SubModel.h
+END
+JSFilterBar.m
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/wine/!svn/ver/208/app/ios/Wine/QianLvTiaoYi/JSFilterBar.m
+END
+JSCmGoodsActionView.xib
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/wine/!svn/ver/318/app/ios/Wine/QianLvTiaoYi/JSCmGoodsActionView.xib
+END
+Area.m
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/wine/!svn/ver/6/app/ios/Wine/QianLvTiaoYi/Area.m
+END
+JSSearchButtonBar.xib
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/wine/!svn/ver/208/app/ios/Wine/QianLvTiaoYi/JSSearchButtonBar.xib
+END
+GetProductData.m
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/wine/!svn/ver/6/app/ios/Wine/QianLvTiaoYi/GetProductData.m
+END
+SubModel.m
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/wine/!svn/ver/292/app/ios/Wine/QianLvTiaoYi/SubModel.m
+END
+JSCmGoodsActionView.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/wine/!svn/ver/325/app/ios/Wine/QianLvTiaoYi/JSCmGoodsActionView.h
+END
+WMRedPacketInfo.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/wine/!svn/ver/123/app/ios/Wine/QianLvTiaoYi/WMRedPacketInfo.h
+END
+JSCmGoodsActionView.m
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/wine/!svn/ver/414/app/ios/Wine/QianLvTiaoYi/JSCmGoodsActionView.m
+END
+UITextField+Verify.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/wine/!svn/ver/414/app/ios/Wine/QianLvTiaoYi/UITextField+Verify.h
+END
+JSGoodsDetaillDesc1Cell.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/wine/!svn/ver/270/app/ios/Wine/QianLvTiaoYi/JSGoodsDetaillDesc1Cell.h
+END
+WMRedPacketInfo.m
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/wine/!svn/ver/123/app/ios/Wine/QianLvTiaoYi/WMRedPacketInfo.m
+END
+NSString+MD5.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/wine/!svn/ver/6/app/ios/Wine/QianLvTiaoYi/NSString+MD5.h
+END
+ConfirmOrder.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/wine/!svn/ver/326/app/ios/Wine/QianLvTiaoYi/ConfirmOrder.h
+END
+GetRushShopBannerData.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/wine/!svn/ver/178/app/ios/Wine/QianLvTiaoYi/GetRushShopBannerData.h
+END
+UITextField+Verify.m
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/wine/!svn/ver/554/app/ios/Wine/QianLvTiaoYi/UITextField+Verify.m
+END
+JSGoodsDetaillDesc1Cell.m
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/wine/!svn/ver/270/app/ios/Wine/QianLvTiaoYi/JSGoodsDetaillDesc1Cell.m
+END
+JSSCShopCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/wine/!svn/ver/27/app/ios/Wine/QianLvTiaoYi/JSSCShopCell.h
+END
+NSString+MD5.m
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/wine/!svn/ver/6/app/ios/Wine/QianLvTiaoYi/NSString+MD5.m
+END
+ConfirmOrder.m
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/wine/!svn/ver/326/app/ios/Wine/QianLvTiaoYi/ConfirmOrder.m
+END
+WMCrowdInfo.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/wine/!svn/ver/551/app/ios/Wine/QianLvTiaoYi/WMCrowdInfo.h
+END
+GoodsSpecifications.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/wine/!svn/ver/6/app/ios/Wine/QianLvTiaoYi/GoodsSpecifications.h
+END
+GetRushShopBannerData.m
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/wine/!svn/ver/178/app/ios/Wine/QianLvTiaoYi/GetRushShopBannerData.m
+END
+WMCommentData.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/wine/!svn/ver/566/app/ios/Wine/QianLvTiaoYi/WMCommentData.h
+END
+JSCAGoodsListVC.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/wine/!svn/ver/150/app/ios/Wine/QianLvTiaoYi/JSCAGoodsListVC.h
+END
+JSSCShopCell.m
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/wine/!svn/ver/27/app/ios/Wine/QianLvTiaoYi/JSSCShopCell.m
+END
+WMCrowdInfo.m
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/wine/!svn/ver/551/app/ios/Wine/QianLvTiaoYi/WMCrowdInfo.m
+END
+GoodsSpecifications.m
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/wine/!svn/ver/6/app/ios/Wine/QianLvTiaoYi/GoodsSpecifications.m
+END
+JSCAGoodsPopGaryView.xib
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/wine/!svn/ver/246/app/ios/Wine/QianLvTiaoYi/JSCAGoodsPopGaryView.xib
+END
+PRAlertView.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/wine/!svn/ver/103/app/ios/Wine/QianLvTiaoYi/PRAlertView.h
+END
+WMMarketActivity.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/wine/!svn/ver/189/app/ios/Wine/QianLvTiaoYi/WMMarketActivity.h
+END
+WMCommentData.m
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/wine/!svn/ver/337/app/ios/Wine/QianLvTiaoYi/WMCommentData.m
+END
+JSCAGoodsListVC.m
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/wine/!svn/ver/613/app/ios/Wine/QianLvTiaoYi/JSCAGoodsListVC.m
+END
+lqright.png
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/wine/!svn/ver/115/app/ios/Wine/QianLvTiaoYi/lqright.png
+END
+MemberCenter.storyboard
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/wine/!svn/ver/621/app/ios/Wine/QianLvTiaoYi/MemberCenter.storyboard
+END
+PRAlertView.m
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/wine/!svn/ver/303/app/ios/Wine/QianLvTiaoYi/PRAlertView.m
+END
+WMMarketActivity.m
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/wine/!svn/ver/189/app/ios/Wine/QianLvTiaoYi/WMMarketActivity.m
+END
+GetAddressListData.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/wine/!svn/ver/6/app/ios/Wine/QianLvTiaoYi/GetAddressListData.h
+END
+JSADLabelView.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/wine/!svn/ver/7/app/ios/Wine/QianLvTiaoYi/JSADLabelView.h
+END
+JSGoodsFavoFliterBar.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/wine/!svn/ver/307/app/ios/Wine/QianLvTiaoYi/JSGoodsFavoFliterBar.h
+END
+GetAddressListData.m
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/wine/!svn/ver/6/app/ios/Wine/QianLvTiaoYi/GetAddressListData.m
+END
+JSADLabelView.m
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/wine/!svn/ver/7/app/ios/Wine/QianLvTiaoYi/JSADLabelView.m
+END
+PRFliterViewNavView.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/wine/!svn/ver/246/app/ios/Wine/QianLvTiaoYi/PRFliterViewNavView.h
+END
+CommentModel.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/wine/!svn/ver/332/app/ios/Wine/QianLvTiaoYi/CommentModel.h
+END
+JSGoodsFavoFliterBar.m
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/wine/!svn/ver/92/app/ios/Wine/QianLvTiaoYi/JSGoodsFavoFliterBar.m
+END
+PRFliterViewNavView.m
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/wine/!svn/ver/245/app/ios/Wine/QianLvTiaoYi/PRFliterViewNavView.m
+END
+CommentModel.m
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/wine/!svn/ver/270/app/ios/Wine/QianLvTiaoYi/CommentModel.m
+END
+WMActivityGoodsList.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/wine/!svn/ver/614/app/ios/Wine/QianLvTiaoYi/WMActivityGoodsList.h
+END
+JSGoodsCVCell.xib
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/wine/!svn/ver/566/app/ios/Wine/QianLvTiaoYi/JSGoodsCVCell.xib
+END
+WMActivityGoodsList.m
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/wine/!svn/ver/178/app/ios/Wine/QianLvTiaoYi/WMActivityGoodsList.m
+END
+WMGoodsFavModel.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/wine/!svn/ver/65/app/ios/Wine/QianLvTiaoYi/WMGoodsFavModel.h
+END
+XLDataService.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/wine/!svn/ver/514/app/ios/Wine/QianLvTiaoYi/XLDataService.h
+END
+JSEvaluateTitleCell.xib
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/wine/!svn/ver/337/app/ios/Wine/QianLvTiaoYi/JSEvaluateTitleCell.xib
+END
+JSSystemMessageTVCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/wine/!svn/ver/256/app/ios/Wine/QianLvTiaoYi/JSSystemMessageTVCell.h
+END
+WMConsumeDetail.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/wine/!svn/ver/245/app/ios/Wine/QianLvTiaoYi/WMConsumeDetail.h
+END
+JSRushRedPackVC.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/wine/!svn/ver/166/app/ios/Wine/QianLvTiaoYi/JSRushRedPackVC.h
+END
+JSGoodsCVCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/wine/!svn/ver/303/app/ios/Wine/QianLvTiaoYi/JSGoodsCVCell.h
+END
+JSPSPasswordCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/wine/!svn/ver/245/app/ios/Wine/QianLvTiaoYi/JSPSPasswordCell.h
+END
+GetAreaData.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/wine/!svn/ver/6/app/ios/Wine/QianLvTiaoYi/GetAreaData.h
+END
+WMGoodsFavModel.m
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/wine/!svn/ver/65/app/ios/Wine/QianLvTiaoYi/WMGoodsFavModel.m
+END
+XLDataService.m
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/wine/!svn/ver/620/app/ios/Wine/QianLvTiaoYi/XLDataService.m
+END
+JSSystemMessageTVCell.m
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/wine/!svn/ver/149/app/ios/Wine/QianLvTiaoYi/JSSystemMessageTVCell.m
+END
+WMConsumeDetail.m
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/wine/!svn/ver/245/app/ios/Wine/QianLvTiaoYi/WMConsumeDetail.m
+END
+JSRushRedPackVC.m
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/wine/!svn/ver/614/app/ios/Wine/QianLvTiaoYi/JSRushRedPackVC.m
+END
+JSGoodsCVCell.m
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/wine/!svn/ver/551/app/ios/Wine/QianLvTiaoYi/JSGoodsCVCell.m
+END
+JSPSPasswordCell.m
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/wine/!svn/ver/245/app/ios/Wine/QianLvTiaoYi/JSPSPasswordCell.m
+END
+GetAreaData.m
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/wine/!svn/ver/6/app/ios/Wine/QianLvTiaoYi/GetAreaData.m
+END
+JSSearchNavigationBar.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/wine/!svn/ver/8/app/ios/Wine/QianLvTiaoYi/JSSearchNavigationBar.h
+END
+XLDataBase.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/wine/!svn/ver/6/app/ios/Wine/QianLvTiaoYi/XLDataBase.h
+END
+JSAddressPickerView.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/wine/!svn/ver/6/app/ios/Wine/QianLvTiaoYi/JSAddressPickerView.h
+END
+JSSearchNavigationBar.m
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/wine/!svn/ver/393/app/ios/Wine/QianLvTiaoYi/JSSearchNavigationBar.m
+END
+XLDataBase.m
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/wine/!svn/ver/6/app/ios/Wine/QianLvTiaoYi/XLDataBase.m
+END
+JSAddressPickerView.m
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/wine/!svn/ver/292/app/ios/Wine/QianLvTiaoYi/JSAddressPickerView.m
+END
+GetCrowdInfoData.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/wine/!svn/ver/507/app/ios/Wine/QianLvTiaoYi/GetCrowdInfoData.h
+END
+Default-4.7.png
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/wine/!svn/ver/449/app/ios/Wine/QianLvTiaoYi/Default-4.7.png
+END
+GetCrowdInfoData.m
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/wine/!svn/ver/507/app/ios/Wine/QianLvTiaoYi/GetCrowdInfoData.m
+END
+CategoryPlist.plist
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/wine/!svn/ver/6/app/ios/Wine/QianLvTiaoYi/CategoryPlist.plist
+END
+GetRushRedPacketData.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/wine/!svn/ver/166/app/ios/Wine/QianLvTiaoYi/GetRushRedPacketData.h
+END
+PRFilterBottomBar.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/wine/!svn/ver/251/app/ios/Wine/QianLvTiaoYi/PRFilterBottomBar.h
+END
+JSSendCommentVC.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/wine/!svn/ver/189/app/ios/Wine/QianLvTiaoYi/JSSendCommentVC.h
+END
+GetRushRedPacketData.m
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/wine/!svn/ver/166/app/ios/Wine/QianLvTiaoYi/GetRushRedPacketData.m
+END
+JSEvaluateTopBar.xib
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/wine/!svn/ver/257/app/ios/Wine/QianLvTiaoYi/JSEvaluateTopBar.xib
+END
+PRFilterBottomBar.m
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/wine/!svn/ver/251/app/ios/Wine/QianLvTiaoYi/PRFilterBottomBar.m
+END
+WMRedPacket.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/wine/!svn/ver/307/app/ios/Wine/QianLvTiaoYi/WMRedPacket.h
+END
+JSSendCommentVC.m
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/wine/!svn/ver/621/app/ios/Wine/QianLvTiaoYi/JSSendCommentVC.m
+END
+WMRedPacket.m
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/wine/!svn/ver/132/app/ios/Wine/QianLvTiaoYi/WMRedPacket.m
+END
+JSODStoreNameCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/wine/!svn/ver/144/app/ios/Wine/QianLvTiaoYi/JSODStoreNameCell.h
+END
+PRFliterViewNavView.xib
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/wine/!svn/ver/246/app/ios/Wine/QianLvTiaoYi/PRFliterViewNavView.xib
+END
+JSGoodsDetailTimedCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/wine/!svn/ver/281/app/ios/Wine/QianLvTiaoYi/JSGoodsDetailTimedCell.h
+END
+JSCommentBaskCell1.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/wine/!svn/ver/138/app/ios/Wine/QianLvTiaoYi/JSCommentBaskCell1.h
+END
+JSODStoreNameCell.m
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/wine/!svn/ver/144/app/ios/Wine/QianLvTiaoYi/JSODStoreNameCell.m
+END
+JSMemberCenterTVC.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/wine/!svn/ver/6/app/ios/Wine/QianLvTiaoYi/JSMemberCenterTVC.h
+END
+JSGoodsDetailTimedCell.m
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/wine/!svn/ver/281/app/ios/Wine/QianLvTiaoYi/JSGoodsDetailTimedCell.m
+END
+JSCommentBaskCell1.m
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/wine/!svn/ver/66/app/ios/Wine/QianLvTiaoYi/JSCommentBaskCell1.m
+END
+JSMemberCenterTVC.m
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/wine/!svn/ver/621/app/ios/Wine/QianLvTiaoYi/JSMemberCenterTVC.m
+END
+GetIdeaListData.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/wine/!svn/ver/271/app/ios/Wine/QianLvTiaoYi/GetIdeaListData.h
+END

@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/wine/!svn/ver/6/app/ios/Wine/Pods/SDCycleScrollView/SDCycleScrollView/Lib/SDCycleScrollView/PageControl
+END
+TAAnimatedDotView.h
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/wine/!svn/ver/6/app/ios/Wine/Pods/SDCycleScrollView/SDCycleScrollView/Lib/SDCycleScrollView/PageControl/TAAnimatedDotView.h
+END
+TAAbstractDotView.h
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/wine/!svn/ver/6/app/ios/Wine/Pods/SDCycleScrollView/SDCycleScrollView/Lib/SDCycleScrollView/PageControl/TAAbstractDotView.h
+END
+TADotView.m
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/wine/!svn/ver/6/app/ios/Wine/Pods/SDCycleScrollView/SDCycleScrollView/Lib/SDCycleScrollView/PageControl/TADotView.m
+END
+TAAnimatedDotView.m
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/wine/!svn/ver/6/app/ios/Wine/Pods/SDCycleScrollView/SDCycleScrollView/Lib/SDCycleScrollView/PageControl/TAAnimatedDotView.m
+END
+TAAbstractDotView.m
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/wine/!svn/ver/6/app/ios/Wine/Pods/SDCycleScrollView/SDCycleScrollView/Lib/SDCycleScrollView/PageControl/TAAbstractDotView.m
+END
+TAPageControl.h
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/wine/!svn/ver/6/app/ios/Wine/Pods/SDCycleScrollView/SDCycleScrollView/Lib/SDCycleScrollView/PageControl/TAPageControl.h
+END
+TADotView.h
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/wine/!svn/ver/6/app/ios/Wine/Pods/SDCycleScrollView/SDCycleScrollView/Lib/SDCycleScrollView/PageControl/TADotView.h
+END
+TAPageControl.m
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/wine/!svn/ver/6/app/ios/Wine/Pods/SDCycleScrollView/SDCycleScrollView/Lib/SDCycleScrollView/PageControl/TAPageControl.m
+END

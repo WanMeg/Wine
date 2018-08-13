@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/wine/!svn/ver/6/app/ios/Wine/QianLvTiaoYi/Util
+END
+base64.m
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/wine/!svn/ver/6/app/ios/Wine/QianLvTiaoYi/Util/base64.m
+END
+RSADataSigner.m
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/wine/!svn/ver/6/app/ios/Wine/QianLvTiaoYi/Util/RSADataSigner.m
+END
+MD5DataSigner.m
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/wine/!svn/ver/6/app/ios/Wine/QianLvTiaoYi/Util/MD5DataSigner.m
+END
+DataVerifier.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/wine/!svn/ver/6/app/ios/Wine/QianLvTiaoYi/Util/DataVerifier.h
+END
+config.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/wine/!svn/ver/6/app/ios/Wine/QianLvTiaoYi/Util/config.h
+END
+NSDataEx.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/wine/!svn/ver/6/app/ios/Wine/QianLvTiaoYi/Util/NSDataEx.h
+END
+DataVerifier.m
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/wine/!svn/ver/6/app/ios/Wine/QianLvTiaoYi/Util/DataVerifier.m
+END
+RSADataVerifier.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/wine/!svn/ver/6/app/ios/Wine/QianLvTiaoYi/Util/RSADataVerifier.h
+END
+NSDataEx.m
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/wine/!svn/ver/6/app/ios/Wine/QianLvTiaoYi/Util/NSDataEx.m
+END
+RSADataVerifier.m
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/wine/!svn/ver/6/app/ios/Wine/QianLvTiaoYi/Util/RSADataVerifier.m
+END
+DataSigner.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/wine/!svn/ver/6/app/ios/Wine/QianLvTiaoYi/Util/DataSigner.h
+END
+openssl_wrapper.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/wine/!svn/ver/6/app/ios/Wine/QianLvTiaoYi/Util/openssl_wrapper.h
+END
+base64.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/wine/!svn/ver/6/app/ios/Wine/QianLvTiaoYi/Util/base64.h
+END
+DataSigner.m
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/wine/!svn/ver/6/app/ios/Wine/QianLvTiaoYi/Util/DataSigner.m
+END
+RSADataSigner.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/wine/!svn/ver/6/app/ios/Wine/QianLvTiaoYi/Util/RSADataSigner.h
+END
+MD5DataSigner.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/wine/!svn/ver/6/app/ios/Wine/QianLvTiaoYi/Util/MD5DataSigner.h
+END
+openssl_wrapper.m
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/wine/!svn/ver/6/app/ios/Wine/QianLvTiaoYi/Util/openssl_wrapper.m
+END

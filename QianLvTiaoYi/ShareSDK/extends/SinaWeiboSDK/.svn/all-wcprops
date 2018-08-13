@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/wine/!svn/ver/15/app/ios/Wine/QianLvTiaoYi/ShareSDK/extends/SinaWeiboSDK
+END
+WBSDKCommentButton.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/wine/!svn/ver/6/app/ios/Wine/QianLvTiaoYi/ShareSDK/extends/SinaWeiboSDK/WBSDKCommentButton.h
+END
+WBHttpRequest+WeiboGame.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/wine/!svn/ver/6/app/ios/Wine/QianLvTiaoYi/ShareSDK/extends/SinaWeiboSDK/WBHttpRequest+WeiboGame.h
+END
+WeiboSDK+Statistics.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/wine/!svn/ver/6/app/ios/Wine/QianLvTiaoYi/ShareSDK/extends/SinaWeiboSDK/WeiboSDK+Statistics.h
+END
+WBHttpRequest+WeiboUser.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/wine/!svn/ver/6/app/ios/Wine/QianLvTiaoYi/ShareSDK/extends/SinaWeiboSDK/WBHttpRequest+WeiboUser.h
+END
+WBHttpRequest.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/wine/!svn/ver/6/app/ios/Wine/QianLvTiaoYi/ShareSDK/extends/SinaWeiboSDK/WBHttpRequest.h
+END
+WBHttpRequest+WeiboToken.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/wine/!svn/ver/6/app/ios/Wine/QianLvTiaoYi/ShareSDK/extends/SinaWeiboSDK/WBHttpRequest+WeiboToken.h
+END
+WeiboUser.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/wine/!svn/ver/6/app/ios/Wine/QianLvTiaoYi/ShareSDK/extends/SinaWeiboSDK/WeiboUser.h
+END
+WBHttpRequest+WeiboShare.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/wine/!svn/ver/6/app/ios/Wine/QianLvTiaoYi/ShareSDK/extends/SinaWeiboSDK/WBHttpRequest+WeiboShare.h
+END
+WeiboSDK.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/wine/!svn/ver/6/app/ios/Wine/QianLvTiaoYi/ShareSDK/extends/SinaWeiboSDK/WeiboSDK.h
+END
+libweibosdk.a
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/wine/!svn/ver/15/app/ios/Wine/QianLvTiaoYi/ShareSDK/extends/SinaWeiboSDK/libweibosdk.a
+END
+WBSDKBasicButton.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/wine/!svn/ver/6/app/ios/Wine/QianLvTiaoYi/ShareSDK/extends/SinaWeiboSDK/WBSDKBasicButton.h
+END
+WBSDKRelationshipButton.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/wine/!svn/ver/6/app/ios/Wine/QianLvTiaoYi/ShareSDK/extends/SinaWeiboSDK/WBSDKRelationshipButton.h
+END

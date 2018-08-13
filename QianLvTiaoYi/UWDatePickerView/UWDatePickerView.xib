@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="10116" systemVersion="15B42" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES">
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="10085"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <view contentMode="scaleToFill" id="eZf-qE-a14" customClass="UWDatePickerView">
+            <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
+            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+            <subviews>
+                <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="ZKv-Zu-VZt">
+                    <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
+                    <color key="backgroundColor" red="0.46666666670000001" green="0.47058823529999999" blue="0.47450980390000003" alpha="0.5" colorSpace="calibratedRGB"/>
+                    <state key="normal">
+                        <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
+                    </state>
+                    <connections>
+                        <action selector="backGroundBtnClicked:" destination="eZf-qE-a14" eventType="touchUpInside" id="c0C-Ho-hK2"/>
+                    </connections>
+                </button>
+                <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="6eT-Cg-aDx">
+                    <rect key="frame" x="0.0" y="383" width="375" height="220"/>
+                    <subviews>
+                        <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="bm8-aU-Pv0">
+                            <rect key="frame" x="20" y="2" width="138" height="38"/>
+                            <state key="normal" title="取消"/>
+                            <connections>
+                                <action selector="removeBtnClick:" destination="eZf-qE-a14" eventType="touchUpInside" id="ArW-RI-D7U"/>
+                            </connections>
+                        </button>
+                        <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="laK-8S-WLZ">
+                            <rect key="frame" x="218" y="2" width="137" height="38"/>
+                            <state key="normal" title="确定"/>
+                            <connections>
+                                <action selector="sureBtnClick:" destination="eZf-qE-a14" eventType="touchUpInside" id="RoZ-UY-4Pk"/>
+                            </connections>
+                        </button>
+                        <datePicker contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" datePickerMode="date" minuteInterval="1" translatesAutoresizingMaskIntoConstraints="NO" id="R9C-ti-nkg">
+                            <rect key="frame" x="0.0" y="40" width="375" height="180"/>
+                            <date key="date" timeIntervalSinceReferenceDate="482937674.16971201">
+                                <!--2016-04-21 13:21:14 +0000-->
+                            </date>
+                            <locale key="locale" localeIdentifier="zh_CN"/>
+                        </datePicker>
+                    </subviews>
+                    <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                    <constraints>
+                        <constraint firstAttribute="bottom" secondItem="R9C-ti-nkg" secondAttribute="bottom" id="5ag-ey-85c"/>
+                        <constraint firstItem="laK-8S-WLZ" firstAttribute="leading" secondItem="bm8-aU-Pv0" secondAttribute="trailing" constant="60" id="DsI-jJ-BHc"/>
+                        <constraint firstAttribute="trailing" secondItem="laK-8S-WLZ" secondAttribute="trailing" constant="20" id="ODV-wC-m3p"/>
+                        <constraint firstItem="laK-8S-WLZ" firstAttribute="height" secondItem="bm8-aU-Pv0" secondAttribute="height" id="PTY-Cr-U6a"/>
+                        <constraint firstItem="R9C-ti-nkg" firstAttribute="top" secondItem="6eT-Cg-aDx" secondAttribute="top" constant="40" id="Q9N-CF-ol4"/>
+                        <constraint firstItem="R9C-ti-nkg" firstAttribute="top" secondItem="laK-8S-WLZ" secondAttribute="bottom" id="UQr-WW-B3z"/>
+                        <constraint firstItem="laK-8S-WLZ" firstAttribute="width" secondItem="bm8-aU-Pv0" secondAttribute="width" id="VXF-9d-GbK"/>
+                        <constraint firstAttribute="trailing" secondItem="R9C-ti-nkg" secondAttribute="trailing" id="Zef-aq-5fM"/>
+                        <constraint firstItem="bm8-aU-Pv0" firstAttribute="leading" secondItem="6eT-Cg-aDx" secondAttribute="leading" constant="20" id="cKG-CS-5qo"/>
+                        <constraint firstItem="R9C-ti-nkg" firstAttribute="top" secondItem="bm8-aU-Pv0" secondAttribute="bottom" id="eVI-2d-JBV"/>
+                        <constraint firstItem="laK-8S-WLZ" firstAttribute="top" secondItem="6eT-Cg-aDx" secondAttribute="top" constant="2" id="fJp-rm-ayE"/>
+                        <constraint firstAttribute="height" constant="220" id="fMD-N1-bZP"/>
+                        <constraint firstItem="bm8-aU-Pv0" firstAttribute="top" secondItem="6eT-Cg-aDx" secondAttribute="top" constant="2" id="zXV-bb-TgQ"/>
+                        <constraint firstItem="R9C-ti-nkg" firstAttribute="leading" secondItem="6eT-Cg-aDx" secondAttribute="leading" id="zq0-Ge-jGM"/>
+                    </constraints>
+                </view>
+            </subviews>
+            <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+            <constraints>
+                <constraint firstItem="6eT-Cg-aDx" firstAttribute="leading" secondItem="eZf-qE-a14" secondAttribute="leading" id="9EG-8J-u1m"/>
+                <constraint firstItem="ZKv-Zu-VZt" firstAttribute="top" secondItem="eZf-qE-a14" secondAttribute="top" id="Cce-CR-cpf"/>
+                <constraint firstAttribute="bottom" secondItem="ZKv-Zu-VZt" secondAttribute="bottom" id="OPm-UT-aFp"/>
+                <constraint firstAttribute="bottom" secondItem="6eT-Cg-aDx" secondAttribute="bottom" constant="64" id="RJW-nk-R8t"/>
+                <constraint firstAttribute="trailing" secondItem="6eT-Cg-aDx" secondAttribute="trailing" id="bBi-Rn-Yep"/>
+                <constraint firstItem="ZKv-Zu-VZt" firstAttribute="leading" secondItem="eZf-qE-a14" secondAttribute="leading" id="iuv-oc-00H"/>
+                <constraint firstAttribute="trailing" secondItem="ZKv-Zu-VZt" secondAttribute="trailing" id="nYA-rI-y3B"/>
+            </constraints>
+            <simulatedScreenMetrics key="simulatedDestinationMetrics" type="retina47"/>
+            <connections>
+                <outlet property="backGroundBtn" destination="ZKv-Zu-VZt" id="QV4-Vt-Wld"/>
+                <outlet property="backgVIew" destination="6eT-Cg-aDx" id="BVW-nS-zJ3"/>
+                <outlet property="cannelBtn" destination="bm8-aU-Pv0" id="dhM-fX-e7x"/>
+                <outlet property="datePickerView" destination="R9C-ti-nkg" id="Ya8-ee-oSy"/>
+                <outlet property="sureBtn" destination="laK-8S-WLZ" id="VMm-jY-D3z"/>
+            </connections>
+            <point key="canvasLocation" x="110.5" y="327.5"/>
+        </view>
+    </objects>
+</document>

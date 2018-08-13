@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="10116" systemVersion="15B42" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES">
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="10085"/>
+        <capability name="Aspect ratio constraints" minToolsVersion="5.1"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <view contentMode="scaleToFill" id="iN0-l3-epB" customClass="JSSCEmptyView">
+            <rect key="frame" x="0.0" y="0.0" width="375" height="260"/>
+            <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+            <subviews>
+                <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="CartEmpty" translatesAutoresizingMaskIntoConstraints="NO" id="ndx-wl-np8">
+                    <rect key="frame" x="138" y="70" width="100" height="80"/>
+                    <constraints>
+                        <constraint firstAttribute="width" secondItem="ndx-wl-np8" secondAttribute="height" multiplier="5:4" id="n7E-mI-gkm"/>
+                    </constraints>
+                </imageView>
+                <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="购物车快饿瘪了T.T" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="Vmi-G4-PNt">
+                    <rect key="frame" x="124" y="152" width="127" height="21"/>
+                    <fontDescription key="fontDescription" type="boldSystem" pointSize="15"/>
+                    <color key="textColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="calibratedRGB"/>
+                    <nil key="highlightedColor"/>
+                </label>
+                <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="主人快给我挑点宝贝吧" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="VGl-Tg-E77">
+                    <rect key="frame" x="128" y="173" width="120" height="23"/>
+                    <fontDescription key="fontDescription" type="system" pointSize="12"/>
+                    <color key="textColor" white="0.66666666666666663" alpha="1" colorSpace="calibratedWhite"/>
+                    <nil key="highlightedColor"/>
+                </label>
+            </subviews>
+            <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="calibratedWhite"/>
+            <constraints>
+                <constraint firstItem="ndx-wl-np8" firstAttribute="top" secondItem="iN0-l3-epB" secondAttribute="top" constant="70" id="2sF-54-yQC"/>
+                <constraint firstItem="VGl-Tg-E77" firstAttribute="top" secondItem="Vmi-G4-PNt" secondAttribute="bottom" id="76g-JV-nRt"/>
+                <constraint firstItem="Vmi-G4-PNt" firstAttribute="top" secondItem="ndx-wl-np8" secondAttribute="bottom" constant="2" id="7BU-8N-Sls"/>
+                <constraint firstAttribute="bottom" secondItem="VGl-Tg-E77" secondAttribute="bottom" constant="64" id="AXG-w3-a4i"/>
+                <constraint firstItem="ndx-wl-np8" firstAttribute="centerX" secondItem="iN0-l3-epB" secondAttribute="centerX" id="JCA-WB-sFO"/>
+                <constraint firstAttribute="bottom" secondItem="ndx-wl-np8" secondAttribute="bottom" constant="110" id="P2p-Lo-vN8"/>
+                <constraint firstAttribute="bottom" secondItem="Vmi-G4-PNt" secondAttribute="bottom" constant="87" id="dkd-hs-T9x"/>
+                <constraint firstItem="Vmi-G4-PNt" firstAttribute="centerX" secondItem="iN0-l3-epB" secondAttribute="centerX" id="gxt-kg-gev"/>
+                <constraint firstItem="VGl-Tg-E77" firstAttribute="centerX" secondItem="iN0-l3-epB" secondAttribute="centerX" id="uay-wF-FJz"/>
+            </constraints>
+            <freeformSimulatedSizeMetrics key="simulatedDestinationMetrics"/>
+            <point key="canvasLocation" x="285.5" y="107"/>
+        </view>
+    </objects>
+    <resources>
+        <image name="CartEmpty" width="107" height="83"/>
+    </resources>
+</document>

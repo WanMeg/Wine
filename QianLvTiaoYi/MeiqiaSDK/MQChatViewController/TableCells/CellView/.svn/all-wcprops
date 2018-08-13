@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/wine/!svn/ver/193/app/ios/Wine/QianLvTiaoYi/MeiqiaSDK/MQChatViewController/TableCells/CellView
+END
+MQEventMessageCell.m
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/wine/!svn/ver/193/app/ios/Wine/QianLvTiaoYi/MeiqiaSDK/MQChatViewController/TableCells/CellView/MQEventMessageCell.m
+END
+MQImageMessageCell.m
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/wine/!svn/ver/193/app/ios/Wine/QianLvTiaoYi/MeiqiaSDK/MQChatViewController/TableCells/CellView/MQImageMessageCell.m
+END
+MQTextMessageCell.m
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/wine/!svn/ver/193/app/ios/Wine/QianLvTiaoYi/MeiqiaSDK/MQChatViewController/TableCells/CellView/MQTextMessageCell.m
+END
+MQEvaluationResultCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/wine/!svn/ver/193/app/ios/Wine/QianLvTiaoYi/MeiqiaSDK/MQChatViewController/TableCells/CellView/MQEvaluationResultCell.h
+END
+MQFileDownloadCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/wine/!svn/ver/193/app/ios/Wine/QianLvTiaoYi/MeiqiaSDK/MQChatViewController/TableCells/CellView/MQFileDownloadCell.h
+END
+MQEvaluationCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/wine/!svn/ver/193/app/ios/Wine/QianLvTiaoYi/MeiqiaSDK/MQChatViewController/TableCells/CellView/MQEvaluationCell.h
+END
+MQChatBaseCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/wine/!svn/ver/193/app/ios/Wine/QianLvTiaoYi/MeiqiaSDK/MQChatViewController/TableCells/CellView/MQChatBaseCell.h
+END
+MQVoiceMessageCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/wine/!svn/ver/193/app/ios/Wine/QianLvTiaoYi/MeiqiaSDK/MQChatViewController/TableCells/CellView/MQVoiceMessageCell.h
+END
+MQEvaluationResultCell.m
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/wine/!svn/ver/193/app/ios/Wine/QianLvTiaoYi/MeiqiaSDK/MQChatViewController/TableCells/CellView/MQEvaluationResultCell.m
+END
+MQFileDownloadCell.m
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/wine/!svn/ver/193/app/ios/Wine/QianLvTiaoYi/MeiqiaSDK/MQChatViewController/TableCells/CellView/MQFileDownloadCell.m
+END
+MQEvaluationCell.m
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/wine/!svn/ver/193/app/ios/Wine/QianLvTiaoYi/MeiqiaSDK/MQChatViewController/TableCells/CellView/MQEvaluationCell.m
+END
+MQChatBaseCell.m
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/wine/!svn/ver/193/app/ios/Wine/QianLvTiaoYi/MeiqiaSDK/MQChatViewController/TableCells/CellView/MQChatBaseCell.m
+END
+MQTipsCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/wine/!svn/ver/193/app/ios/Wine/QianLvTiaoYi/MeiqiaSDK/MQChatViewController/TableCells/CellView/MQTipsCell.h
+END
+MQVoiceMessageCell.m
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/wine/!svn/ver/193/app/ios/Wine/QianLvTiaoYi/MeiqiaSDK/MQChatViewController/TableCells/CellView/MQVoiceMessageCell.m
+END
+MQMessageDateCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/wine/!svn/ver/193/app/ios/Wine/QianLvTiaoYi/MeiqiaSDK/MQChatViewController/TableCells/CellView/MQMessageDateCell.h
+END
+MQTipsCell.m
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/wine/!svn/ver/193/app/ios/Wine/QianLvTiaoYi/MeiqiaSDK/MQChatViewController/TableCells/CellView/MQTipsCell.m
+END
+MQEventMessageCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/wine/!svn/ver/193/app/ios/Wine/QianLvTiaoYi/MeiqiaSDK/MQChatViewController/TableCells/CellView/MQEventMessageCell.h
+END
+MQMessageDateCell.m
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/wine/!svn/ver/193/app/ios/Wine/QianLvTiaoYi/MeiqiaSDK/MQChatViewController/TableCells/CellView/MQMessageDateCell.m
+END
+MQImageMessageCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/wine/!svn/ver/193/app/ios/Wine/QianLvTiaoYi/MeiqiaSDK/MQChatViewController/TableCells/CellView/MQImageMessageCell.h
+END
+MQTextMessageCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/wine/!svn/ver/193/app/ios/Wine/QianLvTiaoYi/MeiqiaSDK/MQChatViewController/TableCells/CellView/MQTextMessageCell.h
+END

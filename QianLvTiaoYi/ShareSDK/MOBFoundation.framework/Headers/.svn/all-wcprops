@@ -1,0 +1,185 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/wine/!svn/ver/6/app/ios/Wine/QianLvTiaoYi/ShareSDK/MOBFoundation.framework/Headers
+END
+MOBFRSAHelper.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/wine/!svn/ver/6/app/ios/Wine/QianLvTiaoYi/ShareSDK/MOBFoundation.framework/Headers/MOBFRSAHelper.h
+END
+MOBFDebug.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/wine/!svn/ver/6/app/ios/Wine/QianLvTiaoYi/ShareSDK/MOBFoundation.framework/Headers/MOBFDebug.h
+END
+MOBFNotificationCenter.h
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/wine/!svn/ver/6/app/ios/Wine/QianLvTiaoYi/ShareSDK/MOBFoundation.framework/Headers/MOBFNotificationCenter.h
+END
+MOBFNumber.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/wine/!svn/ver/6/app/ios/Wine/QianLvTiaoYi/ShareSDK/MOBFoundation.framework/Headers/MOBFNumber.h
+END
+MOBFJSTypeDefine.h
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/wine/!svn/ver/6/app/ios/Wine/QianLvTiaoYi/ShareSDK/MOBFoundation.framework/Headers/MOBFJSTypeDefine.h
+END
+MOBFPluginManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/wine/!svn/ver/6/app/ios/Wine/QianLvTiaoYi/ShareSDK/MOBFoundation.framework/Headers/MOBFPluginManager.h
+END
+MOBFDataService.h
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/wine/!svn/ver/6/app/ios/Wine/QianLvTiaoYi/ShareSDK/MOBFoundation.framework/Headers/MOBFDataService.h
+END
+MOBFNetworkFlowInfo.h
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/wine/!svn/ver/6/app/ios/Wine/QianLvTiaoYi/ShareSDK/MOBFoundation.framework/Headers/MOBFNetworkFlowInfo.h
+END
+MOBFHttpPostedFile.h
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/wine/!svn/ver/6/app/ios/Wine/QianLvTiaoYi/ShareSDK/MOBFoundation.framework/Headers/MOBFHttpPostedFile.h
+END
+MOBFRSAKey.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/wine/!svn/ver/6/app/ios/Wine/QianLvTiaoYi/ShareSDK/MOBFoundation.framework/Headers/MOBFRSAKey.h
+END
+MOBFDevice.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/wine/!svn/ver/6/app/ios/Wine/QianLvTiaoYi/ShareSDK/MOBFoundation.framework/Headers/MOBFDevice.h
+END
+MOBFHttpService.h
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/wine/!svn/ver/6/app/ios/Wine/QianLvTiaoYi/ShareSDK/MOBFoundation.framework/Headers/MOBFHttpService.h
+END
+MOBFXml.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/wine/!svn/ver/6/app/ios/Wine/QianLvTiaoYi/ShareSDK/MOBFoundation.framework/Headers/MOBFXml.h
+END
+MOBFoundation.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/wine/!svn/ver/6/app/ios/Wine/QianLvTiaoYi/ShareSDK/MOBFoundation.framework/Headers/MOBFoundation.h
+END
+MOBFOAuthService.h
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/wine/!svn/ver/6/app/ios/Wine/QianLvTiaoYi/ShareSDK/MOBFoundation.framework/Headers/MOBFOAuthService.h
+END
+MOBFImageService.h
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/wine/!svn/ver/6/app/ios/Wine/QianLvTiaoYi/ShareSDK/MOBFoundation.framework/Headers/MOBFImageService.h
+END
+MOBFApplication.h
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/wine/!svn/ver/6/app/ios/Wine/QianLvTiaoYi/ShareSDK/MOBFoundation.framework/Headers/MOBFApplication.h
+END
+MOBFString.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/wine/!svn/ver/6/app/ios/Wine/QianLvTiaoYi/ShareSDK/MOBFoundation.framework/Headers/MOBFString.h
+END
+MOBFXmlNode.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/wine/!svn/ver/6/app/ios/Wine/QianLvTiaoYi/ShareSDK/MOBFoundation.framework/Headers/MOBFXmlNode.h
+END
+IMOBFPlugin.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/wine/!svn/ver/6/app/ios/Wine/QianLvTiaoYi/ShareSDK/MOBFoundation.framework/Headers/IMOBFPlugin.h
+END
+MOBFJson.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/wine/!svn/ver/6/app/ios/Wine/QianLvTiaoYi/ShareSDK/MOBFoundation.framework/Headers/MOBFJson.h
+END
+MOBFData.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/wine/!svn/ver/6/app/ios/Wine/QianLvTiaoYi/ShareSDK/MOBFoundation.framework/Headers/MOBFData.h
+END
+MOBFRegex.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/wine/!svn/ver/6/app/ios/Wine/QianLvTiaoYi/ShareSDK/MOBFoundation.framework/Headers/MOBFRegex.h
+END
+MOBFDate.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/wine/!svn/ver/6/app/ios/Wine/QianLvTiaoYi/ShareSDK/MOBFoundation.framework/Headers/MOBFDate.h
+END
+MOBFColor.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/wine/!svn/ver/6/app/ios/Wine/QianLvTiaoYi/ShareSDK/MOBFoundation.framework/Headers/MOBFColor.h
+END
+MOBFViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/wine/!svn/ver/6/app/ios/Wine/QianLvTiaoYi/ShareSDK/MOBFoundation.framework/Headers/MOBFViewController.h
+END
+MOBFMedia.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/wine/!svn/ver/6/app/ios/Wine/QianLvTiaoYi/ShareSDK/MOBFoundation.framework/Headers/MOBFMedia.h
+END
+MOBFJSContext.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/wine/!svn/ver/6/app/ios/Wine/QianLvTiaoYi/ShareSDK/MOBFoundation.framework/Headers/MOBFJSContext.h
+END
+MOBFImage.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/wine/!svn/ver/6/app/ios/Wine/QianLvTiaoYi/ShareSDK/MOBFoundation.framework/Headers/MOBFImage.h
+END
+MOBFImageServiceTypeDef.h
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/wine/!svn/ver/6/app/ios/Wine/QianLvTiaoYi/ShareSDK/MOBFoundation.framework/Headers/MOBFImageServiceTypeDef.h
+END

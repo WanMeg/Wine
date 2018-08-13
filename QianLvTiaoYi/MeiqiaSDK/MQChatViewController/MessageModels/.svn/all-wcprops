@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/wine/!svn/ver/193/app/ios/Wine/QianLvTiaoYi/MeiqiaSDK/MQChatViewController/MessageModels
+END
+MQEventMessage.m
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/wine/!svn/ver/193/app/ios/Wine/QianLvTiaoYi/MeiqiaSDK/MQChatViewController/MessageModels/MQEventMessage.m
+END
+MQFileDownloadMessage.h
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/wine/!svn/ver/193/app/ios/Wine/QianLvTiaoYi/MeiqiaSDK/MQChatViewController/MessageModels/MQFileDownloadMessage.h
+END
+MQImageMessage.m
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/wine/!svn/ver/193/app/ios/Wine/QianLvTiaoYi/MeiqiaSDK/MQChatViewController/MessageModels/MQImageMessage.m
+END
+MQTextMessage.m
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/wine/!svn/ver/193/app/ios/Wine/QianLvTiaoYi/MeiqiaSDK/MQChatViewController/MessageModels/MQTextMessage.m
+END
+MQBaseMessage.h
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/wine/!svn/ver/193/app/ios/Wine/QianLvTiaoYi/MeiqiaSDK/MQChatViewController/MessageModels/MQBaseMessage.h
+END
+MQVoiceMessage.m
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/wine/!svn/ver/193/app/ios/Wine/QianLvTiaoYi/MeiqiaSDK/MQChatViewController/MessageModels/MQVoiceMessage.m
+END
+MQFileDownloadMessage.m
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/wine/!svn/ver/193/app/ios/Wine/QianLvTiaoYi/MeiqiaSDK/MQChatViewController/MessageModels/MQFileDownloadMessage.m
+END
+MQBaseMessage.m
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/wine/!svn/ver/193/app/ios/Wine/QianLvTiaoYi/MeiqiaSDK/MQChatViewController/MessageModels/MQBaseMessage.m
+END
+MQEventMessage.h
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/wine/!svn/ver/193/app/ios/Wine/QianLvTiaoYi/MeiqiaSDK/MQChatViewController/MessageModels/MQEventMessage.h
+END
+MQImageMessage.h
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/wine/!svn/ver/193/app/ios/Wine/QianLvTiaoYi/MeiqiaSDK/MQChatViewController/MessageModels/MQImageMessage.h
+END
+MQTextMessage.h
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/wine/!svn/ver/193/app/ios/Wine/QianLvTiaoYi/MeiqiaSDK/MQChatViewController/MessageModels/MQTextMessage.h
+END
+MQVoiceMessage.h
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/wine/!svn/ver/193/app/ios/Wine/QianLvTiaoYi/MeiqiaSDK/MQChatViewController/MessageModels/MQVoiceMessage.h
+END

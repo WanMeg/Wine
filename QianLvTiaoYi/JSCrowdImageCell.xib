@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="10117" systemVersion="15B42" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES">
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="10085"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <tableViewCell contentMode="scaleToFill" selectionStyle="none" indentationWidth="10" rowHeight="320" id="KGk-i7-Jjw" customClass="JSCrowdImageCell">
+            <rect key="frame" x="0.0" y="0.0" width="320" height="320"/>
+            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+            <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" tableViewCell="KGk-i7-Jjw" id="H2p-sc-9uM">
+                <rect key="frame" x="0.0" y="0.0" width="320" height="319"/>
+                <autoresizingMask key="autoresizingMask"/>
+                <subviews>
+                    <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" translatesAutoresizingMaskIntoConstraints="NO" id="9mJ-oM-peb">
+                        <rect key="frame" x="0.0" y="0.0" width="320" height="319"/>
+                    </imageView>
+                </subviews>
+                <constraints>
+                    <constraint firstAttribute="trailing" secondItem="9mJ-oM-peb" secondAttribute="trailing" id="9M3-qY-5ID"/>
+                    <constraint firstAttribute="bottom" secondItem="9mJ-oM-peb" secondAttribute="bottom" id="DgW-7N-15e"/>
+                    <constraint firstItem="9mJ-oM-peb" firstAttribute="top" secondItem="H2p-sc-9uM" secondAttribute="top" id="X7W-zI-c51"/>
+                    <constraint firstItem="9mJ-oM-peb" firstAttribute="leading" secondItem="H2p-sc-9uM" secondAttribute="leading" id="x7R-QD-nNF"/>
+                </constraints>
+            </tableViewCellContentView>
+            <connections>
+                <outlet property="actIamge" destination="9mJ-oM-peb" id="wXG-ei-I5X"/>
+            </connections>
+            <point key="canvasLocation" x="305" y="302"/>
+        </tableViewCell>
+    </objects>
+</document>

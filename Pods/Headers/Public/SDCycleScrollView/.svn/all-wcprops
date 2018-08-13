@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/wine/!svn/ver/8/app/ios/Wine/Pods/Headers/Public/SDCycleScrollView
+END
+TAAnimatedDotView.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/wine/!svn/ver/6/app/ios/Wine/Pods/Headers/Public/SDCycleScrollView/TAAnimatedDotView.h
+END
+TAAbstractDotView.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/wine/!svn/ver/6/app/ios/Wine/Pods/Headers/Public/SDCycleScrollView/TAAbstractDotView.h
+END
+SDCollectionViewCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/wine/!svn/ver/6/app/ios/Wine/Pods/Headers/Public/SDCycleScrollView/SDCollectionViewCell.h
+END
+SDCycleScrollView.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/wine/!svn/ver/6/app/ios/Wine/Pods/Headers/Public/SDCycleScrollView/SDCycleScrollView.h
+END
+TAPageControl.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/wine/!svn/ver/6/app/ios/Wine/Pods/Headers/Public/SDCycleScrollView/TAPageControl.h
+END
+TADotView.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/wine/!svn/ver/6/app/ios/Wine/Pods/Headers/Public/SDCycleScrollView/TADotView.h
+END
+UIView+SDExtension.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/wine/!svn/ver/6/app/ios/Wine/Pods/Headers/Public/SDCycleScrollView/UIView+SDExtension.h
+END

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/wine/!svn/ver/6/app/ios/Wine/Pods/Headers/Private/SWTableViewCell
+END
+SWTableViewCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/wine/!svn/ver/6/app/ios/Wine/Pods/Headers/Private/SWTableViewCell/SWTableViewCell.h
+END
+SWLongPressGestureRecognizer.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/wine/!svn/ver/6/app/ios/Wine/Pods/Headers/Private/SWTableViewCell/SWLongPressGestureRecognizer.h
+END
+NSMutableArray+SWUtilityButtons.h
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/wine/!svn/ver/6/app/ios/Wine/Pods/Headers/Private/SWTableViewCell/NSMutableArray+SWUtilityButtons.h
+END
+SWCellScrollView.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/wine/!svn/ver/6/app/ios/Wine/Pods/Headers/Private/SWTableViewCell/SWCellScrollView.h
+END
+SWUtilityButtonView.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/wine/!svn/ver/6/app/ios/Wine/Pods/Headers/Private/SWTableViewCell/SWUtilityButtonView.h
+END
+SWUtilityButtonTapGestureRecognizer.h
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/wine/!svn/ver/6/app/ios/Wine/Pods/Headers/Private/SWTableViewCell/SWUtilityButtonTapGestureRecognizer.h
+END

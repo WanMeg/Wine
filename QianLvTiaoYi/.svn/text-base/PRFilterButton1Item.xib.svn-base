@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="10116" systemVersion="15B42" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES">
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="10085"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <collectionViewCell opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" id="HLu-oI-vaj" customClass="PRFilterButton1Item">
+            <rect key="frame" x="0.0" y="0.0" width="80" height="30"/>
+            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+            <view key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center">
+                <rect key="frame" x="0.0" y="0.0" width="80" height="30"/>
+                <autoresizingMask key="autoresizingMask"/>
+                <subviews>
+                    <button opaque="NO" userInteractionEnabled="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="8Qa-FR-gNh">
+                        <rect key="frame" x="0.0" y="0.0" width="80" height="30"/>
+                        <fontDescription key="fontDescription" type="system" pointSize="15"/>
+                        <state key="normal" title="快递配送">
+                            <color key="titleColor" red="0.25098039220000001" green="0.2666666667" blue="0.28235294119999998" alpha="1" colorSpace="calibratedRGB"/>
+                        </state>
+                        <state key="selected" image="red_right">
+                            <color key="titleColor" red="0.90588235289999997" green="0.0078431372550000003" blue="0.1176470588" alpha="1" colorSpace="calibratedRGB"/>
+                        </state>
+                    </button>
+                </subviews>
+                <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="calibratedWhite"/>
+            </view>
+            <constraints>
+                <constraint firstItem="8Qa-FR-gNh" firstAttribute="top" secondItem="HLu-oI-vaj" secondAttribute="top" id="Cxx-Rt-XFl"/>
+                <constraint firstItem="8Qa-FR-gNh" firstAttribute="leading" secondItem="HLu-oI-vaj" secondAttribute="leading" id="FYK-X4-aSz"/>
+                <constraint firstAttribute="bottom" secondItem="8Qa-FR-gNh" secondAttribute="bottom" id="UJE-Su-fEb"/>
+                <constraint firstAttribute="trailing" secondItem="8Qa-FR-gNh" secondAttribute="trailing" id="eVn-6F-Y8v"/>
+            </constraints>
+            <connections>
+                <outlet property="button" destination="8Qa-FR-gNh" id="Vnn-gT-iho"/>
+            </connections>
+            <point key="canvasLocation" x="107" y="192"/>
+        </collectionViewCell>
+    </objects>
+    <resources>
+        <image name="red_right" width="14" height="10"/>
+    </resources>
+</document>

@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/wine/!svn/ver/6/app/ios/Wine/Pods/SWTableViewCell/SWTableViewCell/PodFiles
+END
+SWUtilityButtonView.m
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/wine/!svn/ver/6/app/ios/Wine/Pods/SWTableViewCell/SWTableViewCell/PodFiles/SWUtilityButtonView.m
+END
+SWUtilityButtonTapGestureRecognizer.m
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/wine/!svn/ver/6/app/ios/Wine/Pods/SWTableViewCell/SWTableViewCell/PodFiles/SWUtilityButtonTapGestureRecognizer.m
+END
+SWTableViewCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/wine/!svn/ver/6/app/ios/Wine/Pods/SWTableViewCell/SWTableViewCell/PodFiles/SWTableViewCell.h
+END
+SWLongPressGestureRecognizer.h
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/wine/!svn/ver/6/app/ios/Wine/Pods/SWTableViewCell/SWTableViewCell/PodFiles/SWLongPressGestureRecognizer.h
+END
+NSMutableArray+SWUtilityButtons.h
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/wine/!svn/ver/6/app/ios/Wine/Pods/SWTableViewCell/SWTableViewCell/PodFiles/NSMutableArray+SWUtilityButtons.h
+END
+SWTableViewCell.m
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/wine/!svn/ver/6/app/ios/Wine/Pods/SWTableViewCell/SWTableViewCell/PodFiles/SWTableViewCell.m
+END
+SWLongPressGestureRecognizer.m
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/wine/!svn/ver/6/app/ios/Wine/Pods/SWTableViewCell/SWTableViewCell/PodFiles/SWLongPressGestureRecognizer.m
+END
+SWCellScrollView.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/wine/!svn/ver/6/app/ios/Wine/Pods/SWTableViewCell/SWTableViewCell/PodFiles/SWCellScrollView.h
+END
+SWUtilityButtonView.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/wine/!svn/ver/6/app/ios/Wine/Pods/SWTableViewCell/SWTableViewCell/PodFiles/SWUtilityButtonView.h
+END
+SWUtilityButtonTapGestureRecognizer.h
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/wine/!svn/ver/6/app/ios/Wine/Pods/SWTableViewCell/SWTableViewCell/PodFiles/SWUtilityButtonTapGestureRecognizer.h
+END
+NSMutableArray+SWUtilityButtons.m
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/wine/!svn/ver/6/app/ios/Wine/Pods/SWTableViewCell/SWTableViewCell/PodFiles/NSMutableArray+SWUtilityButtons.m
+END
+SWCellScrollView.m
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/wine/!svn/ver/6/app/ios/Wine/Pods/SWTableViewCell/SWTableViewCell/PodFiles/SWCellScrollView.m
+END

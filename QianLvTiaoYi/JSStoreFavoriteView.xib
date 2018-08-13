@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="10116" systemVersion="15B42" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES">
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="10085"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <view contentMode="scaleToFill" id="iN0-l3-epB" customClass="JSStoreFavoriteView">
+            <rect key="frame" x="0.0" y="0.0" width="375" height="603"/>
+            <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+            <subviews>
+                <collectionView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" dataMode="none" translatesAutoresizingMaskIntoConstraints="NO" id="G37-wc-1qY">
+                    <rect key="frame" x="0.0" y="40" width="375" height="563"/>
+                    <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                    <collectionViewFlowLayout key="collectionViewLayout" minimumLineSpacing="0.0" minimumInteritemSpacing="0.0" id="fhV-0n-Qh1">
+                        <size key="itemSize" width="50" height="50"/>
+                        <size key="headerReferenceSize" width="0.0" height="0.0"/>
+                        <size key="footerReferenceSize" width="0.0" height="0.0"/>
+                        <inset key="sectionInset" minX="0.0" minY="0.0" maxX="0.0" maxY="0.0"/>
+                    </collectionViewFlowLayout>
+                </collectionView>
+                <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="8X6-q3-xDa">
+                    <rect key="frame" x="0.0" y="0.0" width="375" height="40"/>
+                    <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                </view>
+                <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="d1f-C8-kTr">
+                    <rect key="frame" x="188" y="322" width="0.0" height="0.0"/>
+                    <fontDescription key="fontDescription" type="boldSystem" pointSize="18"/>
+                    <color key="textColor" white="0.33333333333333331" alpha="1" colorSpace="calibratedWhite"/>
+                    <nil key="highlightedColor"/>
+                </label>
+            </subviews>
+            <color key="backgroundColor" red="0.93725490199999995" green="0.93725490199999995" blue="0.95686274510000002" alpha="1" colorSpace="calibratedRGB"/>
+            <constraints>
+                <constraint firstItem="G37-wc-1qY" firstAttribute="top" secondItem="8X6-q3-xDa" secondAttribute="bottom" id="6lg-27-vT7"/>
+                <constraint firstItem="8X6-q3-xDa" firstAttribute="leading" secondItem="iN0-l3-epB" secondAttribute="leading" id="Bba-TI-ru3"/>
+                <constraint firstAttribute="bottom" secondItem="G37-wc-1qY" secondAttribute="bottom" id="Olj-49-Fv2"/>
+                <constraint firstItem="G37-wc-1qY" firstAttribute="leading" secondItem="iN0-l3-epB" secondAttribute="leading" id="VVP-Fv-TGg"/>
+                <constraint firstItem="d1f-C8-kTr" firstAttribute="centerY" secondItem="G37-wc-1qY" secondAttribute="centerY" id="Wvh-JP-62f"/>
+                <constraint firstItem="G37-wc-1qY" firstAttribute="top" secondItem="iN0-l3-epB" secondAttribute="top" constant="40" id="YbN-VS-7Ia"/>
+                <constraint firstAttribute="trailing" secondItem="8X6-q3-xDa" secondAttribute="trailing" id="f2G-zP-J6O"/>
+                <constraint firstItem="8X6-q3-xDa" firstAttribute="top" secondItem="iN0-l3-epB" secondAttribute="top" id="jIW-gY-JLn"/>
+                <constraint firstAttribute="trailing" secondItem="G37-wc-1qY" secondAttribute="trailing" id="lno-6u-dso"/>
+                <constraint firstItem="d1f-C8-kTr" firstAttribute="centerX" secondItem="G37-wc-1qY" secondAttribute="centerX" id="tS3-6e-KFh"/>
+            </constraints>
+            <nil key="simulatedStatusBarMetrics"/>
+            <freeformSimulatedSizeMetrics key="simulatedDestinationMetrics"/>
+            <connections>
+                <outlet property="storeFavCollectView" destination="G37-wc-1qY" id="eiw-rr-gva"/>
+                <outlet property="storeFavTopBarView" destination="8X6-q3-xDa" id="IMr-Qb-EEX"/>
+                <outlet property="tipsLabel" destination="d1f-C8-kTr" id="uaJ-E0-Jyh"/>
+            </connections>
+            <point key="canvasLocation" x="666.5" y="188.5"/>
+        </view>
+    </objects>
+</document>

@@ -1,0 +1,70 @@
+//
+//  WMPch.pch
+//  QianLvTiaoYi
+//
+//  Created by JiaSheng on 16/4/20.
+//  Copyright © 2016年 JSheng. All rights reserved.
+//
+
+#ifndef WMPch_pch
+#define WMPch_pch
+
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+typedef void(^ButtonActionBlock)(id sender);
+
+
+#import "JSContact.h"
+#import "PRAlertView.h"
+#import <SDCycleScrollView/SDCycleScrollView.h>
+#import <DZNEmptyDataSet/UIScrollView+EmptyDataSet.h>
+#import <SVProgressHUD/SVProgressHUD.h>
+#import "XLDataService.h"
+#import "AFNetworking.h"
+#import <SDWebImage/UIImageView+WebCache.h>
+#import <SDWebImage/UIButton+WebCache.h>
+
+#import "WMGeneralTool.h"
+#import "PRUitls.h"
+
+#import "Member.h"
+#import "GetUserData.h"
+
+//服务器ip地址
+#define M_HTTPURLS @"http://211.149.197.146:8999/app-1.0"
+
+//微信分享地址
+#define M_WXURLS @"http://www.zgjlpfw.com/mobile/"
+
+//区头区尾高度
+#define M_HEADER_HIGHT 0.00001f
+
+//本地存储
+#define M_USERDEFAULTS [NSUserDefaults standardUserDefaults]
+
+//常用提示框
+#define M_ALERTSHOW_(msg) UIAlertView *alert = [[UIAlertView alloc]initWithTitle:@"提示" message:msg delegate:nil cancelButtonTitle:nil otherButtonTitles:@"确定", nil];\
+    [alert show];
+
+// 判断用户是否登录
+#define M_MEMBER_LOGIN [GetUserData fetchActivateMemberData]
+
+// 判断用户是否认证
+#define M_IS_AUTHENTICA [WMGeneralTool judgeLoginAuthentication]
+
+// 判断是否含有系统表情
+#define M_JUDGE_EMOJI [[[UITextInputMode currentInputMode] primaryLanguage] isEqualToString:@"emoji"]
+
+
+//如果release状态就不执行NSLog函数
+#ifndef __OPTIMIZE__
+#define NSLog(...) NSLog(__VA_ARGS__)
+#else
+# define NSLog(...) {}
+#endif
+
+#endif /* WMPch_pch */
+
+
+
+

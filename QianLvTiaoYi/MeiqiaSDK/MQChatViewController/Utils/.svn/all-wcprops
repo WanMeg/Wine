@@ -1,0 +1,143 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/wine/!svn/ver/193/app/ios/Wine/QianLvTiaoYi/MeiqiaSDK/MQChatViewController/Utils
+END
+MQChatAudioRecorder.m
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/wine/!svn/ver/193/app/ios/Wine/QianLvTiaoYi/MeiqiaSDK/MQChatViewController/Utils/MQChatAudioRecorder.m
+END
+MQChatDeviceUtil.h
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/wine/!svn/ver/193/app/ios/Wine/QianLvTiaoYi/MeiqiaSDK/MQChatViewController/Utils/MQChatDeviceUtil.h
+END
+MQStringSizeUtil.h
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/wine/!svn/ver/193/app/ios/Wine/QianLvTiaoYi/MeiqiaSDK/MQChatViewController/Utils/MQStringSizeUtil.h
+END
+MQDateFormatterUtil.h
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/wine/!svn/ver/193/app/ios/Wine/QianLvTiaoYi/MeiqiaSDK/MQChatViewController/Utils/MQDateFormatterUtil.h
+END
+MQChatEmojize.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/wine/!svn/ver/193/app/ios/Wine/QianLvTiaoYi/MeiqiaSDK/MQChatViewController/Utils/MQChatEmojize.h
+END
+MQChatDeviceUtil.m
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/wine/!svn/ver/193/app/ios/Wine/QianLvTiaoYi/MeiqiaSDK/MQChatViewController/Utils/MQChatDeviceUtil.m
+END
+MQDateFormatterUtil.m
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/wine/!svn/ver/193/app/ios/Wine/QianLvTiaoYi/MeiqiaSDK/MQChatViewController/Utils/MQDateFormatterUtil.m
+END
+MQStringSizeUtil.m
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/wine/!svn/ver/193/app/ios/Wine/QianLvTiaoYi/MeiqiaSDK/MQChatViewController/Utils/MQStringSizeUtil.m
+END
+MQBundleUtil.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/wine/!svn/ver/193/app/ios/Wine/QianLvTiaoYi/MeiqiaSDK/MQChatViewController/Utils/MQBundleUtil.h
+END
+MQChatEmojize.m
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/wine/!svn/ver/193/app/ios/Wine/QianLvTiaoYi/MeiqiaSDK/MQChatViewController/Utils/MQChatEmojize.m
+END
+MQChatRegexUtil.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/wine/!svn/ver/193/app/ios/Wine/QianLvTiaoYi/MeiqiaSDK/MQChatViewController/Utils/MQChatRegexUtil.h
+END
+MQBundleUtil.m
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/wine/!svn/ver/193/app/ios/Wine/QianLvTiaoYi/MeiqiaSDK/MQChatViewController/Utils/MQBundleUtil.m
+END
+MQChatRegexUtil.m
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/wine/!svn/ver/193/app/ios/Wine/QianLvTiaoYi/MeiqiaSDK/MQChatViewController/Utils/MQChatRegexUtil.m
+END
+MQAssetUtil.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/wine/!svn/ver/193/app/ios/Wine/QianLvTiaoYi/MeiqiaSDK/MQChatViewController/Utils/MQAssetUtil.h
+END
+MQChatFileUtil.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/wine/!svn/ver/193/app/ios/Wine/QianLvTiaoYi/MeiqiaSDK/MQChatViewController/Utils/MQChatFileUtil.h
+END
+MQChatAudioPlayer.h
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/wine/!svn/ver/193/app/ios/Wine/QianLvTiaoYi/MeiqiaSDK/MQChatViewController/Utils/MQChatAudioPlayer.h
+END
+MQImageUtil.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/wine/!svn/ver/193/app/ios/Wine/QianLvTiaoYi/MeiqiaSDK/MQChatViewController/Utils/MQImageUtil.h
+END
+MQChatFileUtil.m
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/wine/!svn/ver/193/app/ios/Wine/QianLvTiaoYi/MeiqiaSDK/MQChatViewController/Utils/MQChatFileUtil.m
+END
+MQAssetUtil.m
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/wine/!svn/ver/193/app/ios/Wine/QianLvTiaoYi/MeiqiaSDK/MQChatViewController/Utils/MQAssetUtil.m
+END
+MQChatAudioPlayer.m
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/wine/!svn/ver/193/app/ios/Wine/QianLvTiaoYi/MeiqiaSDK/MQChatViewController/Utils/MQChatAudioPlayer.m
+END
+MQImageUtil.m
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/wine/!svn/ver/193/app/ios/Wine/QianLvTiaoYi/MeiqiaSDK/MQChatViewController/Utils/MQImageUtil.m
+END
+MQChatAudioTypes.h
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/wine/!svn/ver/193/app/ios/Wine/QianLvTiaoYi/MeiqiaSDK/MQChatViewController/Utils/MQChatAudioTypes.h
+END
+MQChatAudioRecorder.h
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/wine/!svn/ver/193/app/ios/Wine/QianLvTiaoYi/MeiqiaSDK/MQChatViewController/Utils/MQChatAudioRecorder.h
+END
